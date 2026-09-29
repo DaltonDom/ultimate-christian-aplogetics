@@ -37,7 +37,10 @@ Tick them off as you go.
 - [ ] C.S. Lewis: the *Mere Christianity* chapter numbers (foundations-4, apologetics-7), *The Abolition of Man* (tactics-2),
       *Surprised by Joy* ch. 13 (tactics-3)
 - [ ] Francis Bacon, "Of Atheism" spelling (apologetics-8)
-- [ ] Bonhoeffer, *Life Together* (foundations-3)
+- [ ] Bonhoeffer, *Life Together* (foundations-3) and *Ethics* (prolife-1)
+- [ ] Augustine, *Confessions* in the Pusey translation (worldviews-6, worldviews-7)
+- [ ] Didache 2:2, Roberts–Donaldson translation (prolife-2)
+- [ ] John Newton, "I am a great sinner… Christ is a great Saviour" as recorded by William Jay (prolife-3)
 
 ## Facts and figures
 
@@ -46,4 +49,6 @@ Tick them off as you go.
 - [ ] The share of wars that were mainly religious (tactics-2, quick answers)
 - [ ] LDS: D&C 9:8 "burning in the bosom", ~17M members, the 2018 name request (worldviews-3)
 - [ ] JW: New World Translation renderings of Colossians 1:16, Hebrews 1:6 and John 8:58, ~8M members (worldviews-4)
+- [ ] Embryology milestones: heartbeat at ~3 weeks after fertilization, organs by ~8 weeks (prolife-1)
+- [ ] Rape accounts for ~1% or less of abortions (prolife-3)
 - [ ] Hume's "Indian prince", Eddington's net, Strauss on the swoon theory (apologetics-6, apologetics-8)

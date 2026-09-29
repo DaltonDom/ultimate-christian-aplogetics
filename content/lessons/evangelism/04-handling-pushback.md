@@ -263,6 +263,35 @@ against **hypocritical** judging, criticising others while ignoring your own sin
 same passage He tells us to deal with our own sin first so we can help others (Matthew
 7:5). That's exactly what you're doing when you include yourself.
 
+### "Christians are hypocrites."
+
+*What they mean:* Often, "I've been hurt or let down by people who claimed to follow
+Jesus."
+
+*What you can say:* *"You're right. Some are, and I'm sorry if you've been on the
+receiving end. I'm a hypocrite in plenty of ways myself. But Jesus isn't. He's the one
+person who never failed to live what He taught. And the church is supposed to be a
+hospital for sinners, not a museum of perfect people. Can I ask, would God find you
+innocent or guilty?"*
+
+Don't defend bad behaviour. Agree, apologise where it's right, and then bring the
+conversation back to Christ and to their own standing before God.
+
+## Pushback Is Often Progress
+
+It's easy to think a conversation has gone badly because the person argued. But look at
+what's happening. People rarely defend themselves against something that doesn't
+matter to them. An objection often means the message has **landed**.
+
+- **They're engaging.** Indifference is harder to work with than disagreement.
+- **Their conscience is speaking.** Excuses are usually a sign someone knows they need
+  one.
+- **You're not responsible for the outcome.** Your job is to be clear and kind. Changing
+  hearts is God's work.
+
+So don't panic when you hear pushback. Welcome it. Every objection gives you another
+chance to show the person their need and point them to the Saviour.
+
 ## When They Change the Subject
 
 Sometimes the pushback isn't an argument; it's an exit. The conversation gets personal,

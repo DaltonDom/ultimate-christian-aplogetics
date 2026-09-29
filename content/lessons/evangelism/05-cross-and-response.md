@@ -247,6 +247,15 @@ Notice what that includes:
 Because they now understand their guilt, the cross makes sense. That's what the Law was
 for.
 
+**Make it personal.** Tie the cross back to what they admitted a few minutes ago: *"You
+told me you've lied, stolen, and used God's name as a curse word. Those are the very sins
+Jesus was punished for. He took what you deserve so you could be forgiven."* Suddenly the
+cross isn't a religious symbol. It's about them.
+
+**Keep it brief and clear.** Resist the urge to cover every doctrine at once. Say the
+essentials, then stop and ask, *"Does that make sense?"* Their questions will show you
+what to explain next.
+
 ## Repentance and Faith: The Response God Asks For
 
 Jesus summed up the response in two words: *"repent and believe in the gospel"* (Mark
@@ -273,6 +282,10 @@ trust Jesus alone. Not Jesus plus your good works. Jesus alone."*
 
 - *"You can talk to God yourself, right now or tonight. Confess your sins to Him, tell
   Him you're turning from them, and put your trust in Jesus to save you."*
+- If they ask what to say, don't hand them a script to repeat. Point them to a real
+  prayer of repentance in the Bible, such as **Psalm 51**, which David prayed after his
+  sin with Bathsheba. Suggest they read it and then pour out their own heart to God in
+  their own words.
 - Offer to pray *for* them, there and then if it's appropriate.
 - Give next steps: a Bible (start with the Gospel of John), a Bible-teaching church,
   and your contact details so you can follow up (see the next lesson).

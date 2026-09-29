@@ -220,6 +220,23 @@ Christ through you, or even just shows real interest, here's how to help:
 The best follow-up turns a new believer into a **new witness**. Help them tell their
 friends what's happened.
 
+### Following up with the "not yet" people
+
+Most people you talk to won't come to Christ that day. They still matter. Follow-up
+isn't only for converts:
+
+- **Keep the door open.** *"I really enjoyed our chat. If you ever want to talk more,
+  I'd love to."*
+- **Pray for them by name**, and let them know you are, if it's appropriate.
+- **Remember what they told you.** Ask about the sick parent, the exam, the job
+  interview. Care shown later proves your concern was real.
+- **Invite them to something:** a church service, a Christmas event, or a coffee to
+  talk through their questions.
+- **Answer the question you promised to answer.** If you said *"I'll find out,"* do it.
+
+Many people come to faith after a series of conversations over months or years, so
+never treat a "not yet" as a final "no."
+
 ## God Gives the Growth
 
 Paul described his ministry like farming: *"I planted, Apollos watered, but God gave the
