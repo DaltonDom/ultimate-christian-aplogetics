@@ -179,8 +179,8 @@ videos: []
 ---
 
 You've just asked someone, *"Do you think you're a good person?"* and they've answered
-with total confidence: *"Yes, definitely."* Three thousand years ago, a wise king
-predicted exactly that: *"Many a man proclaims his own steadfast love, but a faithful man
+with total confidence: *"Yes, definitely."* Around three thousand years ago, a wise king
+described exactly that: *"Many a man proclaims his own steadfast love, but a faithful man
 who can find?"* (Proverbs 20:6).
 
 Pushback is not a sign you've done something wrong. It's normal. More than that, it's

@@ -31,7 +31,9 @@ Tick them off as you go.
 - [ ] Augustine, *The Literal Meaning of Genesis* (tactics-4): the wording follows a modern translation
 - [ ] Calvin, *Institutes* 1.5.1 (apologetics-2)
 - [ ] Pascal, *Pensées*, Trotter translation (foundations-2, tactics-1, apologetics-6)
-- [ ] Spurgeon, "leap to hell over our dead bodies" and the date of "The Wailing of Risca" (gospel-4)
+- [ ] Spurgeon, "leap to hell over our dead bodies" and the date of "The Wailing of Risca" (gospel-4, evangelism-1)
+- [ ] D. L. Moody, "wrecked vessel… life-boat" (evangelism-2): the source given is approximate
+- [ ] William Carey, "Expect great things…" (evangelism-6): the original may have been shorter
 - [ ] Thomas Watson, "Till sin be bitter, Christ will not be sweet" (gospel-6)
 - [ ] John Newton, "On Controversy" (tactics-5)
 - [ ] C.S. Lewis: the *Mere Christianity* chapter numbers (foundations-4, apologetics-7), *The Abolition of Man* (tactics-2),
@@ -51,4 +53,6 @@ Tick them off as you go.
 - [ ] JW: New World Translation renderings of Colossians 1:16, Hebrews 1:6 and John 8:58, ~8M members (worldviews-4)
 - [ ] Embryology milestones: heartbeat at ~3 weeks after fertilization, organs by ~8 weeks (prolife-1)
 - [ ] Rape accounts for ~1% or less of abortions (prolife-3)
+- [ ] Living Waters generally prefers not to lead a set "sinner's prayer" (evangelism-5)
+- [ ] US law on unstamped items in mailboxes (evangelism-6)
 - [ ] Hume's "Indian prince", Eddington's net, Strauss on the swoon theory (apologetics-6, apologetics-8)
