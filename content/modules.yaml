@@ -1,0 +1,31 @@
+# The course map. Module order here is the order shown in the app.
+# Lesson files live in content/lessons/<module id>/NN-slug.md and are sorted by `order`.
+modules:
+  - id: foundations
+    title: Foundations
+    icon: "🧱"
+    summary: What apologetics is, why it always serves the gospel, and the posture of a faithful witness.
+  - id: gospel
+    title: The Gospel
+    icon: "✝️"
+    summary: Law before grace — the Ten Commandments, the conscience, Judgment Day, the cross, and repentance and faith.
+  - id: evangelism
+    title: Evangelism Training
+    icon: "🗣️"
+    summary: Overcoming fear, starting conversations, the Good Person Test, and bringing a conversation to the cross.
+  - id: tactics
+    title: Debate Tactics & Fallacies
+    icon: "♟️"
+    summary: Asking good questions, burden of proof, spotting bad reasoning, and keeping your cool.
+  - id: apologetics
+    title: Apologetics
+    icon: "🛡️"
+    summary: Evidence for God, the reliability of the Bible, the resurrection, evil and suffering, and science and faith.
+  - id: worldviews
+    title: Questions for Every Worldview
+    icon: "🌍"
+    summary: How to understand and engage atheists, relativists, Latter-day Saints, Jehovah's Witnesses, Muslims, Catholics, and Eastern religions.
+  - id: prolife
+    title: Pro-Life
+    icon: "🤍"
+    summary: The science and Scripture on the unborn, the hard cases, and speaking with truth and compassion.

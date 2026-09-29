@@ -1,0 +1,516 @@
+# Logical Fallacies
+# Schema:
+# fallacies:
+#   - id: kebab-case-unique
+#     name: Straw Man
+#     aka: Misrepresentation            # optional
+#     category: Relevance | Presumption | Ambiguity | Cause & Effect | Authority & Popularity
+#     definition: One or two plain-language sentences.
+#     example: "A realistic example of a skeptic (or anyone) using it."
+#     christianTrap: How Christians commonly commit this one (optional).
+#     response: >-
+#       How to gently point it out in conversation — ideally as a question.
+fallacies:
+  # ---------------------------------------------------------------- Relevance
+  - id: straw-man
+    name: Straw Man
+    aka: Misrepresentation
+    category: Relevance
+    definition: >-
+      Swapping someone's real view for a weaker, distorted version and then knocking that
+      down instead.
+    example: >-
+      "Christians believe a sky fairy magically poofed everything into existence, and that
+      nobody should ever ask questions."
+    christianTrap: >-
+      Saying "atheists just want to sin" or "evolutionists think we came from nothing by pure
+      chance," instead of engaging with what thoughtful atheists and scientists actually say.
+    response: >-
+      "That's not quite what I believe. Could I explain what Christians actually mean by
+      creation, and then you can tell me what you find hard to accept about it?"
+
+  - id: ad-hominem
+    name: Ad Hominem
+    aka: Attacking the person
+    category: Relevance
+    definition: >-
+      Attacking the character, motives or intelligence of the person making an argument
+      instead of dealing with the argument itself.
+    example: >-
+      "You only believe in the resurrection because you're uneducated. Nobody smart buys
+      that stuff."
+    christianTrap: >-
+      Dismissing a skeptic's objection because of their lifestyle ("You just don't want to
+      give up your sin") without first answering the question they actually asked.
+    response: >-
+      "Even if I were uneducated, the evidence would still be the same. Could we look at the
+      reasons themselves? Which part of the case for the resurrection seems weakest to you?"
+
+  - id: genetic-fallacy
+    name: Genetic Fallacy
+    category: Relevance
+    definition: >-
+      Judging a belief as true or false based on where it came from, rather than on the
+      reasons for it.
+    example: >-
+      "You're only a Christian because your parents raised you that way. If you'd been born in
+      Saudi Arabia you'd be a Muslim."
+    christianTrap: >-
+      Rejecting a scientific idea only because an atheist first proposed it, or assuming a
+      skeptic's argument must be wrong because of who is making it.
+    response: >-
+      "My upbringing might explain how I first heard about Jesus, but does it tell us whether
+      what I believe is true or false? Could we look at the reasons instead?"
+
+  - id: tu-quoque
+    name: Tu Quoque
+    aka: You too / whataboutism
+    category: Relevance
+    definition: >-
+      Dismissing a claim or criticism by pointing out that the other person, or their group,
+      is inconsistent or guilty too.
+    example: >-
+      "Why should I listen to anything you say about sin? Christians have been caught in more
+      scandals than anyone."
+    christianTrap: >-
+      Answering criticism of the church by immediately pointing to atheist regimes, without
+      first honestly admitting where Christians did wrong.
+    response: >-
+      "You're right, Christians often fail, and I'm one of them. But if I'm a hypocrite, does
+      that make what Jesus said any less true? What do you make of Jesus Himself?"
+
+  - id: red-herring
+    name: Red Herring
+    aka: Changing the subject
+    category: Relevance
+    definition: >-
+      Bringing in an unrelated issue to divert attention away from the question being
+      discussed.
+    example: >-
+      Asked whether they think lying is wrong, someone replies, "Well, what about all the
+      money televangelists take from poor people?"
+    christianTrap: >-
+      When asked a hard question you can't answer, switching topics or jumping to a stock
+      gospel presentation rather than saying "I don't know, but I'll find out."
+    response: >-
+      "That's a fair concern, and I'm happy to come back to it. But can we finish the first
+      question first? Do you think you've ever told a lie?"
+
+  - id: appeal-to-emotion
+    name: Appeal to Emotion
+    category: Relevance
+    definition: >-
+      Using feelings such as pity, fear, anger or disgust in place of good reasons for
+      a conclusion.
+    example: >-
+      "How can you believe in a God who would let a little child die of cancer? Just picture
+      her parents' faces."
+    christianTrap: >-
+      Using high-pressure emotional tactics, scary stories or tear-jerking music to push
+      someone into a "decision" they don't understand, rather than explaining the gospel clearly
+      and letting the Spirit work.
+    response: >-
+      Acknowledge the emotion first; it's often real pain. Then gently ask, "That really is
+      heartbreaking. Can I ask, if there's no God, what makes a child's suffering truly wrong
+      and not just unfortunate?"
+
+  - id: appeal-to-nature
+    name: Appeal to Nature
+    category: Relevance
+    definition: >-
+      Assuming that something is good or right because it is natural, or bad because it is
+      unnatural.
+    example: >-
+      "Animals aren't monogamous, and humans are just animals, so it's natural for us to sleep
+      around. There's nothing wrong with it."
+    christianTrap: >-
+      Arguing that something is wrong simply because it's "unnatural," without explaining what
+      God designed it for and why His design is good.
+    response: >-
+      "Lots of things happen in nature, like animals killing their rivals' young. Does
+      something being natural automatically make it right for people? Where do you think our
+      sense of 'ought' comes from?"
+
+  - id: gish-gallop
+    name: Gish Gallop
+    aka: Firehose of objections
+    category: Relevance
+    definition: >-
+      Firing off so many objections so quickly that no one could answer them all, then
+      treating any unanswered point as a win.
+    example: >-
+      "What about the Crusades, and dinosaurs, and slavery, and the talking snake, and Noah's
+      ark, and all the contradictions, and why God hates gay people? Answer that!"
+    christianTrap: >-
+      Burying a skeptic under a list of twenty arguments for God instead of carefully making one
+      or two strong points and listening.
+    response: >-
+      "Those are all big questions, and I'd love to take them seriously. Which one matters to
+      you most? Let's start there and do it properly."
+
+  - id: chronological-snobbery
+    name: Chronological Snobbery
+    aka: Appeal to novelty
+    category: Relevance
+    definition: >-
+      Dismissing an idea simply because it is old, or assuming newer ideas must be better. The
+      term was popularised by C. S. Lewis.
+    example: >-
+      "People in the first century believed in miracles because they didn't know any better.
+      We live in the twenty-first century now."
+    christianTrap: >-
+      The reverse mistake: assuming that anything old or traditional must be right, or that
+      every new idea is automatically wrong.
+    response: >-
+      "What exactly have we learned since the first century that shows dead men stay dead?
+      Didn't people back then know that too? Isn't that why the resurrection was such a shock?"
+
+  # ---------------------------------------------------------------- Presumption
+  - id: begging-the-question
+    name: Begging the Question
+    aka: Assuming the conclusion
+    category: Presumption
+    definition: >-
+      Building the conclusion you want to prove into one of your starting assumptions, often
+      without noticing.
+    example: >-
+      "The Gospels can't be historical, because they contain miracles, and miracles don't
+      happen."
+    christianTrap: >-
+      Assuming the very point a skeptic doubts, such as quoting a verse to prove the Bible is
+      reliable to someone who doesn't yet accept the Bible, instead of starting from common
+      ground.
+    response: >-
+      "How do we know miracles don't happen? If God exists, couldn't He act in the world?
+      Doesn't ruling them out in advance decide the question before we look at the evidence?"
+
+  - id: circular-reasoning
+    name: Circular Reasoning
+    category: Presumption
+    definition: >-
+      An argument that goes in a loop: A is true because of B, and B is true because of A. The
+      conclusion ends up supporting itself.
+    example: >-
+      "There's no evidence for God. Anything you call evidence can be explained naturally,
+      because everything has a natural explanation, because there's no God."
+    christianTrap: >-
+      "The Bible is true because it's God's Word, and I know it's God's Word because the Bible
+      says so." Christians can believe that, but with a skeptic, start with historical evidence
+      for Jesus and let Him vouch for Scripture.
+    response: >-
+      "It sounds like we're assuming there's no God in order to show there's no God. What
+      would it look like to examine the evidence without deciding the answer ahead of time?"
+
+  - id: false-dichotomy
+    name: False Dichotomy
+    aka: False dilemma / either-or fallacy
+    category: Presumption
+    definition: >-
+      Presenting only two options when more exist, so that rejecting one seems to force you
+      into the other.
+    example: >-
+      "You either believe in science or you believe in the Bible. You can't have both."
+    christianTrap: >-
+      Telling people "either you accept my exact view of Genesis or you don't believe the
+      Bible," when faithful Christians hold more than one view on secondary issues.
+    response: >-
+      "Are those really the only two options? Many great scientists, like Newton and Faraday,
+      believed both. What makes you think they conflict?"
+
+  - id: hasty-generalisation
+    name: Hasty Generalisation
+    category: Presumption
+    definition: >-
+      Drawing a broad conclusion from too few examples, or from examples that aren't
+      representative.
+    example: >-
+      "I've met two Christians at work and they were both judgmental. Christians are all
+      the same."
+    christianTrap: >-
+      Assuming every atheist is angry, every Muslim is violent, or every scientist is hostile to
+      faith because of a few loud examples online.
+    response: >-
+      "I'm sorry you had that experience; that's not how Christians should act. Do you think
+      two people give a fair picture of millions? Would you like to meet some others?"
+
+  - id: special-pleading
+    name: Special Pleading
+    aka: Double standard
+    category: Presumption
+    definition: >-
+      Applying a rule to everyone else but exempting yourself or your favourite view without a
+      good reason.
+    example: >-
+      "Ancient historians are trustworthy when they write about Caesar, but the Gospels don't
+      count because they're about Jesus."
+    christianTrap: >-
+      Holding other religions' scriptures to strict historical standards while refusing to let
+      the Bible be examined the same way. (Note that saying God is uncaused is not special
+      pleading, because the argument applies only to things that begin to exist.)
+    response: >-
+      "What standard do you use for other ancient sources? If we applied that same standard to
+      the Gospels, what would we conclude?"
+
+  - id: no-true-scotsman
+    name: No True Scotsman
+    category: Presumption
+    definition: >-
+      Protecting a generalisation from a counter-example by redefining the group so the
+      counter-example doesn't count.
+    example: >-
+      "No real scientist believes in God." "What about Francis Collins?" "Well, he's not a real
+      scientist then."
+    christianTrap: >-
+      Instantly saying "they were never a real Christian" about anyone who did wrong. Scripture
+      does say true faith bears fruit, but we should be slow to pronounce on individuals, and
+      honest that genuine believers still sin.
+    response: >-
+      "It sounds like the definition changed to fit the conclusion. Is it that no scientist
+      believes in God, or that you'd define anyone who does as not a real scientist?"
+
+  - id: argument-from-ignorance
+    name: Argument from Ignorance
+    aka: Appeal to ignorance
+    category: Presumption
+    definition: >-
+      Claiming something is true because it hasn't been proven false, or false because it
+      hasn't been proven true.
+    example: >-
+      "No one has ever proven God exists, so He doesn't."
+    christianTrap: >-
+      "God of the gaps": saying "science can't explain this, so God did it." Strong arguments
+      for God rest on what we know (the universe began, it is fine-tuned), not merely on what we
+      don't know.
+    response: >-
+      "Does a lack of proof show something is false, or just that it hasn't been proven yet?
+      And what would count as good evidence for you?"
+
+  - id: moving-the-goalposts
+    name: Moving the Goalposts
+    category: Presumption
+    definition: >-
+      Changing the standard of evidence whenever the original standard is met, so no evidence
+      is ever enough.
+    example: >-
+      "Show me evidence Jesus existed outside the Bible." After hearing about Tacitus and
+      Josephus: "Well, they weren't eyewitnesses, so that doesn't count."
+    christianTrap: >-
+      Dismissing every scientific finding that seems to challenge a favourite view by shifting
+      what you'd accept, instead of engaging honestly.
+    response: >-
+      "Earlier you asked for sources outside the Bible, and we looked at some. What evidence
+      would actually persuade you? Is there any that would?"
+
+  - id: loaded-question
+    name: Loaded Question
+    aka: Complex question
+    category: Presumption
+    definition: >-
+      Asking a question that sneaks in an unproven assumption, so any direct answer seems to
+      admit it.
+    example: >-
+      "Why do you Christians hate science so much?"
+    christianTrap: >-
+      Asking "Why are you running from God?" or "Why do you hate God?" when the person may
+      simply be confused, hurt or never have thought about it.
+    response: >-
+      "I'm not sure I accept the premise. What makes you think Christians hate science? I
+      actually love it, and so did many of its founders."
+
+  - id: burden-shifting
+    name: Shifting the Burden of Proof
+    category: Presumption
+    definition: >-
+      Making a claim and then demanding that the other person disprove it, instead of
+      supporting it yourself. Whoever makes a claim needs to give reasons for it.
+    example: >-
+      "The Gospels are just legends. Prove to me they aren't."
+    christianTrap: >-
+      Saying "you can't disprove God, so you have to believe," instead of offering positive
+      reasons for faith.
+    response: >-
+      "That's an interesting claim. What makes you think they're legends? What evidence
+      points that way?" (This is Greg Koukl's Columbo tactic at work: let the claim-maker
+      carry their own load.)
+
+  - id: self-refuting-statement
+    name: Self-Refuting Statement
+    category: Presumption
+    definition: >-
+      A claim that fails its own standard, so that if it were true it would be false.
+    example: >-
+      "There's no such thing as absolute truth." Or: "You should only believe what science can
+      prove."
+    christianTrap: >-
+      Rarely a Christian habit, but watch for overstatements like "Christians never doubt," which
+      your own experience may contradict.
+    response: >-
+      "Is that statement absolutely true? And can science prove that we should only believe
+      what science can prove?" Ask with a smile; it's not a gotcha, just an invitation to think.
+
+  - id: cherry-picking
+    name: Cherry Picking
+    aka: Suppressing evidence / proof-texting
+    category: Presumption
+    definition: >-
+      Selecting only the facts or quotations that support your view and ignoring the ones that
+      don't, or quoting something out of context.
+    example: >-
+      "The Bible says 'there is no God.'" (Psalm 14:1 actually says "The fool says in his heart,
+      'There is no God.'")
+    christianTrap: >-
+      Lifting verses out of context to prove a point, such as claiming a promise made to a
+      specific person or nation applies to me in exactly the same way, without reading the
+      surrounding passage.
+    response: >-
+      "Can we read the verses around that one together? What do you think the passage is
+      talking about when you read the whole thing?"
+
+  - id: argument-from-silence
+    name: Argument from Silence
+    category: Presumption
+    definition: >-
+      Concluding that something didn't happen, or wasn't believed, only because a certain
+      source doesn't mention it.
+    example: >-
+      "No Roman records from Jesus' lifetime mention Him, so He probably never existed."
+    christianTrap: >-
+      Arguing "the Bible never mentions X, so God must approve of it" or "must forbid it,"
+      without weighing the wider teaching of Scripture.
+    response: >-
+      "How many records of any Galilean village teacher from that decade have survived? Would
+      we expect Rome to write about Him, and do later sources like Tacitus mention Him?"
+
+  # ---------------------------------------------------------------- Ambiguity
+  - id: equivocation
+    name: Equivocation
+    category: Ambiguity
+    definition: >-
+      Using a key word in two different senses within one argument, so the conclusion only
+      seems to follow.
+    example: >-
+      "Physics shows the universe can come from nothing." (Here "nothing" means a quantum
+      vacuum with energy and laws, which is something, not literally nothing.) Or: "Evolution
+      is a fact" used to mean both "species change over time" and "life has no designer."
+    christianTrap: >-
+      Using "faith" to mean trust based on evidence in one sentence and "belief beyond evidence"
+      in the next, or blurring "evolution" as small changes with unguided materialism.
+    response: >-
+      "When you say 'nothing,' do you mean absolutely nothing, or empty space with energy and
+      physical laws? Aren't those quite different?"
+
+  - id: fallacy-of-composition
+    name: Composition
+    category: Ambiguity
+    definition: >-
+      Assuming that what is true of the parts must be true of the whole.
+    example: >-
+      "Every event within the universe has a natural cause, so the universe as a whole must
+      have a natural cause too."
+    christianTrap: >-
+      Skeptics sometimes accuse cosmological arguments of this. Make your argument carefully,
+      for example "whatever begins to exist has a cause, and the universe began," rather than
+      "every part is caused, so the whole is caused."
+    response: >-
+      "Does the whole always share the properties of its parts? If every brick in a wall is
+      small, is the wall small? Can a natural cause explain nature itself coming to exist?"
+
+  - id: fallacy-of-division
+    name: Division
+    category: Ambiguity
+    definition: >-
+      Assuming that what is true of a whole group must be true of each member or part.
+    example: >-
+      "Religion has caused violence throughout history, so you as a Christian must support
+      violence."
+    christianTrap: >-
+      Assuming that because a church or denomination teaches error, every member of it must
+      not be a believer or must hold every error.
+    response: >-
+      "Is it fair to assume every person in a group holds all the views of that group's worst
+      members? Could you ask me what I actually believe?"
+
+  - id: category-error
+    name: Category Error
+    aka: Category mistake
+    category: Ambiguity
+    definition: >-
+      Treating something as if it belonged to a category it doesn't belong to, and so asking
+      a question that doesn't fit it.
+    example: >-
+      "If God is real, why hasn't any telescope or particle detector ever found Him?" Or:
+      "Who made God?"
+    christianTrap: >-
+      Treating God like one more object in the universe, just bigger, rather than the
+      uncreated Creator on whom everything depends.
+    response: >-
+      "If God is the Creator of the physical universe rather than a thing inside it, would we
+      expect to find Him with physical instruments? Would you look for the author of a book by
+      searching its pages for him?"
+
+  # ---------------------------------------------------------------- Cause & Effect
+  - id: slippery-slope
+    name: Slippery Slope
+    category: Cause & Effect
+    definition: >-
+      Claiming that one step will inevitably lead to an extreme outcome, without showing why
+      each step would follow.
+    example: >-
+      "If you think your religion is the only true one, the next thing you'll want is to force
+      it on everyone and burn heretics."
+    christianTrap: >-
+      Warning that one debatable view (on a secondary issue) will automatically lead someone to
+      abandon the faith, without evidence that it must.
+    response: >-
+      "Why would believing something is true lead to forcing it on others? Jesus Himself told
+      His followers not to use the sword. Isn't that a different step altogether?"
+
+  - id: post-hoc
+    name: Post Hoc
+    aka: False cause / after this, therefore because of this
+    category: Cause & Effect
+    definition: >-
+      Assuming that because one thing happened after another, the first must have caused the
+      second.
+    example: >-
+      "Ever since my aunt got religious, her life has fallen apart. Religion ruins people."
+    christianTrap: >-
+      Claiming "I prayed for a parking space and got one, which proves God is real" to a
+      skeptic. God does answer prayer, but this kind of story isn't evidence to someone else.
+    response: >-
+      "Is it possible other things were going on in her life at the same time? How would we
+      know whether her faith caused the problems or has been helping her through them?"
+
+  # ---------------------------------------------------------------- Authority & Popularity
+  - id: appeal-to-popularity
+    name: Appeal to Popularity
+    aka: Bandwagon
+    category: Authority & Popularity
+    definition: >-
+      Arguing that something is true or right because many people believe it or do it.
+    example: >-
+      "Nobody believes in hell anymore. Most people think that's outdated."
+    christianTrap: >-
+      Pointing to church growth, big crowds or "two billion Christians" as if numbers proved
+      Christianity true.
+    response: >-
+      "Most people once believed lots of things that turned out to be wrong. Does the number of
+      people who believe something tell us whether it's true? What do you think the evidence
+      says?"
+
+  - id: illegitimate-authority
+    name: Appeal to Illegitimate Authority
+    aka: False authority
+    category: Authority & Popularity
+    definition: >-
+      Relying on someone's opinion as decisive when they aren't an expert on the question, or
+      when experts in that field widely disagree with them.
+    example: >-
+      "My chemistry professor says the Gospels were written hundreds of years after Jesus, so
+      they're unreliable." Or quoting a celebrity's opinion on the resurrection.
+    christianTrap: >-
+      Quoting a famous athlete's or celebrity's conversion as if it proved the faith, or citing
+      a pastor as an authority on a scientific or historical question outside his expertise.
+    response: >-
+      "Is your professor an expert in ancient history? What do New Testament historians, even
+      skeptical ones, say about when the Gospels were written?"

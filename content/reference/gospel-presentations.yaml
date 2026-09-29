@@ -1,0 +1,212 @@
+# Gospel Points and Presentations
+# Schema:
+# presentations:
+#   - id: kebab-case-unique
+#     title: The Good Person Test
+#     time: "5–10 minutes"
+#     bestFor: Who and when this works best.
+#     summary: One or two sentences.
+#     steps:
+#       - title: Short step name
+#         say: "What you might actually say (natural, conversational)."
+#         tip: Coaching note (optional).
+#     verses: [refs only]
+presentations:
+  # ---------------------------------------------------------------------------
+  - id: good-person-test
+    title: The Good Person Test
+    time: "5–10 minutes"
+    bestFor: "Anyone who thinks they're basically a good person — which is almost everyone. Works on the street, at work, and with family."
+    summary: >-
+      Popularised by Ray Comfort and the Living Waters team, this approach uses a few of
+      the Ten Commandments to help a person see their sin for themselves, lets their
+      conscience give the verdict, and then brings them to the cross and a call to repent
+      and trust Christ.
+    steps:
+      - title: Ask the question
+        say: "Can I ask you something? Do you think you're a good person — like, on the whole?"
+        tip: "Almost everyone says yes. Don't argue. Just say, “Let's see,” and move on warmly."
+      - title: Hold up the mirror
+        say: >-
+          Let's look at a few of the Ten Commandments. Have you ever told a lie — even a
+          small one? … Ever taken something that wasn't yours, whatever it was worth? …
+          Ever used God's name as a swear word? … Jesus said that looking at someone with
+          lust is adultery in the heart. Have you ever done that?
+        tip: "Ask, don't accuse. Let them answer each one. Keep your tone kind and your own guilt in view — you'd fail this test too."
+      - title: Let the conscience speak
+        say: >-
+          So, by your own admission, you've lied, stolen, blasphemed, and committed
+          adultery in your heart. I'm not judging you — I've done the same. But if God
+          judged you by that standard on Judgment Day, would you be innocent or guilty?
+        tip: "Stop and let them answer. Their conscience already agrees with the Law — you're just giving it a voice."
+      - title: Heaven or hell?
+        say: "If you're guilty, would you go to heaven or hell? … Does that concern you?"
+        tip: "If they say “God will forgive me because He's good,” explain that a good judge can't just let guilty people go free. That's exactly what makes the cross necessary."
+      - title: The cross
+        say: >-
+          Here's the good news. God doesn't want you to go to hell. Jesus — God in human
+          flesh — lived the perfect life we haven't, and on the cross He took the
+          punishment for our sins. It's like you broke the law, and someone else paid your
+          fine. Then He rose from the dead, defeating death.
+        tip: "Slow down here. This is the moment the whole conversation has been building towards."
+      - title: Repent and trust
+        say: >-
+          So what do you need to do? Two things the Bible says go together: repent — turn
+          away from your sin, not just feel bad about it — and trust Jesus alone to save
+          you, like you'd trust a parachute to save you when you jump. Not your good
+          deeds. Him.
+        tip: "Don't pressure anyone into a prayer. Point them to God, not to a formula."
+      - title: Point them onward
+        say: "Would you think about this seriously? Start reading the Gospel of John and ask God to show you the truth. Is anything stopping you from turning to Him today?"
+        tip: "Thank them for their time. Offer a Bible, a tract, or a way to follow up if they're open."
+    verses: [Romans 3:19-20, Exodus 20:1-17, Matthew 5:27-28, Romans 2:14-15, Hebrews 9:27, Romans 5:8, 2 Corinthians 5:21, Mark 1:15, Acts 20:21]
+
+  # ---------------------------------------------------------------------------
+  - id: the-courtroom
+    title: The Courtroom
+    time: "3–5 minutes"
+    bestFor: "People who ask “Why did Jesus have to die?” or think God should just forgive everyone. Great for thinkers and anyone who values justice."
+    summary: >-
+      One illustration that carries the whole gospel: a guilty criminal, a good judge who
+      can't look the other way, a fine that can't be paid — and someone who pays it for
+      them. Use it on its own or as the bridge to the cross in any other presentation.
+    steps:
+      - title: Set the scene
+        say: >-
+          Picture this. You're standing in a courtroom. You've broken the law — seriously
+          — and the evidence is overwhelming. There's video. There's no question you're
+          guilty.
+      - title: The judge must be just
+        say: >-
+          Now, suppose you say to the judge, 'I'm sorry, and I've done lots of good things
+          too.' Should a good judge just let you go? … No. If he did, he'd be a corrupt
+          judge. A good judge has to see that justice is done.
+        tip: "This answers the common objection “Why can't God just forgive?” before it comes up."
+      - title: The fine you can't pay
+        say: >-
+          So the judge sets the fine — and it's millions. You don't have anything close.
+          You're going to prison, and you've got no one to blame but yourself.
+      - title: Someone pays
+        say: >-
+          Then someone you don't even deserve help from walks in and pays the whole fine.
+          The judge says, 'The fine has been paid. You're free to go.' The law is
+          satisfied, and you walk out. That's justice and mercy at the same time.
+      - title: Here's the real story
+        say: >-
+          That's what God did. We've all broken His Law — lying, stealing, lust, putting
+          other things ahead of Him. We're guilty. But Jesus, God in human flesh, came and
+          paid our fine with His own life on the cross. Then He rose from the dead. And
+          here's the part that amazes me: in God's courtroom, the Judge Himself is the one
+          who stepped down and paid.
+        tip: "Every illustration has limits. This one works because the payment is a legal one — the Bible calls it a substitute taking our penalty."
+      - title: What you do with it
+        say: >-
+          But you have to respond. God commands us to repent — turn from our sin — and
+          put our trust in Jesus. It's not a free pass to keep breaking the law; it's a
+          new start with a new heart. Would you want that?
+    verses: [Romans 3:23, Romans 6:23, Romans 3:26, 2 Corinthians 5:21, 1 Peter 3:18, Isaiah 53:5-6, Acts 17:30-31]
+
+  # ---------------------------------------------------------------------------
+  - id: sixty-second-gospel
+    title: The 60-Second Gospel
+    time: "About 1 minute"
+    bestFor: "When you only have a moment — an elevator ride, a checkout line, a taxi, the end of a phone call."
+    summary: >-
+      The whole message in five quick beats: God, sin, the cross, the response, and a
+      next step. Practise it out loud until you can say it naturally in about a minute.
+    steps:
+      - title: A quick opener
+        say: "Can I tell you the best news I've ever heard? It'll take about a minute."
+        tip: "If they say no, smile and respect it. If they say yes, keep your promise — one minute."
+      - title: God and His standard
+        say: "God made us, and He's perfectly good. His standard is the Ten Commandments — don't lie, don't steal, don't even lust in your heart."
+      - title: Our problem
+        say: "If we're honest, we've all broken those. That makes us guilty before God, and the Bible says one day we'll face Him on Judgment Day."
+      - title: God's rescue
+        say: "But God loves us. Jesus — God in human flesh — died on the cross to pay the penalty for our sins, and three days later He rose from the dead."
+      - title: The response
+        say: "So God calls us to repent — turn from our sin — and trust Jesus alone to save us. Not our good deeds. Just Him. Here's something to read when you've got a minute."
+        tip: "Hand them a tract or tell them where to start reading (the Gospel of John). Leave something they can take with them."
+    verses: [Romans 3:23, Hebrews 9:27, Romans 5:8, 1 Corinthians 15:3-4, Mark 1:15]
+
+  # ---------------------------------------------------------------------------
+  - id: romans-road
+    title: The Romans Road
+    time: "5–10 minutes"
+    bestFor: "People open to reading the Bible with you, or a friend who wants to see it for themselves. Easy to remember and easy to pass on."
+    summary: >-
+      A classic path through five verses in Paul's letter to the Romans. It works best
+      when you add the Law (so “all have sinned” becomes personal) and when you clearly
+      explain repentance alongside faith.
+    steps:
+      - title: Open the Bible together
+        say: "Can I show you how the Bible explains the good news? It's all in one book — Romans. Would you read along with me?"
+        tip: "If possible, let them read the verses aloud. Scripture carries its own weight."
+      - title: Everyone has sinned (Romans 3:23)
+        say: >-
+          Paul says all have sinned and fall short of God's glory. Let's make that
+          personal for a second — have you ever lied? Ever taken something that wasn't
+          yours? Jesus said lust is adultery of the heart. So how are we doing against
+          God's standard?
+        tip: "Adding the Law here (Romans 3:19-20; 7:7) is what turns a general truth into a personal one. Without it, people nod along without feeling any need."
+      - title: Sin pays a wage (Romans 6:23a)
+        say: "Look at the first half: the wages of sin is death. Like a paycheck — it's what we've earned. And the Bible says that means more than physical death; it means being separated from God forever."
+      - title: God's gift (Romans 6:23b)
+        say: "But the second half flips it: the free gift of God is eternal life in Christ Jesus. You can't earn a gift. You can only receive it."
+      - title: God's love at the cross (Romans 5:8)
+        say: "God showed His love this way — while we were still sinners, Christ died for us. He didn't wait for us to get our act together. He took our punishment on the cross, and He rose again."
+      - title: Confess and believe (Romans 10:9-10)
+        say: >-
+          So how do we receive it? Paul says to confess with your mouth that Jesus is Lord
+          and believe in your heart that God raised Him from the dead. Calling Jesus
+          'Lord' means He's in charge now — which is why the Bible also calls it
+          repentance: turning from sin to Him.
+        tip: "Don't skip repentance (Acts 17:30; Romans 2:4). “Jesus is Lord” is a surrender, not just a sentence to say."
+      - title: A promise for anyone (Romans 10:13)
+        say: "And here's the promise: everyone who calls on the name of the Lord will be saved. Everyone. That includes you. Is there anything stopping you from turning to Him today?"
+        tip: "If they're ready, encourage them to pray to God in their own words. If not, give them a Bible and suggest they start in the Gospel of John."
+    verses: [Romans 3:23, Romans 3:19-20, Romans 7:7, Romans 6:23, Romans 5:8, Romans 10:9-10, Romans 10:13, Romans 2:4, Acts 17:30]
+
+  # ---------------------------------------------------------------------------
+  - id: sharing-your-testimony
+    title: Sharing Your Testimony
+    time: "2–4 minutes"
+    bestFor: "Friends, family, and coworkers who know you — or anyone who asks, “Why are you a Christian?” A story is hard to argue with."
+    summary: >-
+      A simple three-part story — before, how you met Christ, and after — told so that it
+      lands on the gospel and on Jesus, not on you. Write it down, trim it, and practise
+      it until it fits in about three minutes.
+    steps:
+      - title: Know your goal
+        say: "Can I tell you how I came to faith? It's kind of the most important thing that's ever happened to me."
+        tip: "Your story is the doorway, not the destination. The aim is to show them Jesus, not to impress them with your past or your present."
+      - title: Before
+        say: >-
+          Before I became a Christian, I thought I was a pretty decent person. I believed
+          in God in a vague way, but I lived how I wanted. What I was really trusting in
+          was ... [my own goodness / my career / being liked / partying — be specific and
+          honest].
+        tip: "Be honest but not graphic. Don't glamourise sin. If you grew up in church, your “before” might be relying on church instead of Christ — that's a real story too."
+      - title: How I met Christ
+        say: >-
+          Then ... [what happened]. I came to see that I'd broken God's commandments —
+          I'd lied, I'd been selfish, I'd ignored Him — and that I was guilty before Him.
+          But I learned that Jesus died on the cross to pay for exactly those sins, and
+          rose again. I turned from my sin and put my trust in Him.
+        tip: "This is where the gospel lives in your story. Include sin, the cross, the resurrection, and repentance and faith — in your own words."
+      - title: After
+        say: >-
+          Since then, I'm not perfect — far from it. But I know I'm forgiven, I'm not
+          afraid of death anymore, and I actually want to do what's right now. God has
+          changed what I love.
+        tip: "Be realistic. Don't promise that Jesus fixes every problem; talk about the real change — forgiveness, peace with God, new desires."
+      - title: Turn it towards them
+        say: "Can I ask — has anything like that ever happened to you? Where would you say you are with God right now?"
+        tip: "Now listen. Their answer tells you where to go next — often into the Good Person Test."
+      - title: Land on the gospel
+        say: >-
+          The amazing thing is, it's not about me. What Jesus did for me, He offers to
+          anyone. Every one of us has sinned, but He paid the penalty in full. If you turn
+          from your sin and trust Him, He'll forgive you too.
+        tip: "Finish on Christ, not on yourself. Invite them to respond, and offer to read the Bible with them."
+    verses: [1 Peter 3:15, Acts 26:9-23, John 9:25, Mark 5:19, 1 Timothy 1:15-16, 2 Corinthians 5:17]

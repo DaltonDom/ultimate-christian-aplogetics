@@ -1,0 +1,40 @@
+# Resources — links out to media this app doesn't host (videos, podcasts, printables, courses).
+# Schema:
+# resources:
+#   - title: Name
+#     url: https://...
+#     category: Video | Audio | Course | Print & Outreach | Books
+#     description: One or two sentences on why it's useful.
+resources:
+  - title: Mark Spence on YouTube
+    url: https://www.youtube.com/@MarkSpence
+    category: Video
+    description: Mark Spence's own channel — apologetics, evangelism training, and conversations with skeptics.
+  - title: Living Waters — Mark Spence Videos (playlist)
+    url: https://www.youtube.com/playlist?list=PLIMAX6WHtnhAQzsgujbC9uESgIfVs_miw
+    category: Video
+    description: Mark Spence's videos collected on the Living Waters channel.
+  - title: Living Waters YouTube Channel
+    url: https://www.youtube.com/@LivingWatersMinistry
+    category: Video
+    description: Street witnessing encounters, films, and training from Ray Comfort, Mark Spence, and E.Z.
+  - title: The Living Waters Podcast
+    url: https://livingwaters.com/podcast/
+    category: Audio
+    description: Twice-weekly conversations on evangelism, apologetics, and current issues.
+  - title: School of Biblical Evangelism
+    url: https://biblicalevangelism.com/
+    category: Course
+    description: The full online Living Waters course (101 lessons) — the fuller version of what this app is modelled on.
+  - title: Mark Spence's Ultimate USB
+    url: https://livingwaters.com/usb/
+    category: Course
+    description: The complete library of sermons, videos, training material, and printables on a flash drive.
+  - title: Living Waters Store — Tracts and Outreach Materials
+    url: https://livingwaters.com/store/
+    category: Print & Outreach
+    description: Gospel tracts (including Million Dollar Bills), banners, and outreach supplies.
+  - title: ESV Bible Online
+    url: https://www.esv.org/
+    category: Books
+    description: Read the full English Standard Version text used throughout this course.

@@ -1,0 +1,9 @@
+node_modules
+dist
+dev-dist
+.venv
+*.local
+.DS_Store
+research/.cache
+research/audio
+__pycache__

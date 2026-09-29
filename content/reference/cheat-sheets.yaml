@@ -1,0 +1,612 @@
+# Bible Cheat Sheets — topical Scripture quick reference.
+# Schema:
+# sheets:
+#   - id: kebab-case-unique
+#     title: The Deity of Christ
+#     summary: One sentence on when to use this sheet.
+#     sections:
+#       - heading: Jesus claimed to be God
+#         items:
+#           - ref: John 8:58
+#             text: "..."   # optional ESV quote — at most 8 quoted verses per sheet
+#             note: One line explaining the point.
+sheets:
+  # ---------------------------------------------------------------------------
+  - id: gospel-in-a-handful
+    title: The Gospel in a Handful of Verses
+    summary: "The core verses to have on the tip of your tongue when you want to explain the whole gospel — bad news, good news, and the right response."
+    sections:
+      - heading: "The bad news: we have a problem"
+        items:
+          - ref: Romans 3:23
+            text: "for all have sinned and fall short of the glory of God,"
+            note: "Everyone — religious or not — has missed God's standard. No one is the exception."
+          - ref: Romans 3:19-20
+            note: "The Law's job is to silence our excuses and show us our guilt, not to save us."
+          - ref: Romans 6:23
+            text: "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
+            note: "One verse holds both halves of the message: sin earns death, but life can only come as a gift."
+          - ref: Hebrews 9:27
+            note: "Death is not the end. Judgment follows, which is why this conversation matters today."
+      - heading: "The good news: what God has done"
+        items:
+          - ref: John 3:16
+            text: "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."
+            note: "The motive is love, the gift is the Son, the offer is to whoever believes, and the result is life instead of perishing."
+          - ref: Romans 5:8
+            text: "but God shows his love for us in that while we were still sinners, Christ died for us."
+            note: "God didn't wait for us to clean up first. The cross came to people who were still rebels."
+          - ref: 2 Corinthians 5:21
+            text: "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God."
+            note: "The great exchange: Jesus takes our sin, and we are given His righteousness."
+          - ref: 1 Corinthians 15:3-4
+            note: "Paul's summary of what matters most: Christ died for our sins, was buried, and was raised on the third day."
+          - ref: 1 Peter 3:18
+            note: "The righteous One suffered for the unrighteous, in order to bring us to God."
+      - heading: "The response: repent and believe"
+        items:
+          - ref: Mark 1:15
+            text: "and saying, “The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.”"
+            note: "Jesus' own first sermon in Mark calls for two things together: turn from sin and trust the good news."
+          - ref: Ephesians 2:8-9
+            text: "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God, not a result of works, so that no one may boast."
+            note: "Salvation is received, not earned. That is why no one in heaven will be bragging."
+          - ref: Acts 20:21
+            note: "Paul's whole message in a phrase: repentance toward God and faith in our Lord Jesus Christ."
+          - ref: John 14:6
+            note: "Jesus is not one path among many. He is the way to the Father."
+          - ref: Romans 10:13
+            note: "The promise is wide open: everyone who calls on the name of the Lord will be saved."
+
+  # ---------------------------------------------------------------------------
+  - id: ten-commandments
+    title: The Ten Commandments
+    summary: "Use this when walking someone through God's moral Law (Exodus 20) and showing how Jesus applied it to the heart (Matthew 5)."
+    sections:
+      - heading: "The Ten (Exodus 20:1-17)"
+        items:
+          - ref: Exodus 20:3
+            note: "1st — No other gods. God must be first. Ask: has He always been first in your life?"
+          - ref: Exodus 20:4-6
+            note: "2nd — No idols. That includes making up a god you're comfortable with — a god who would never judge."
+          - ref: Exodus 20:7
+            text: "“You shall not take the name of the LORD your God in vain, for the LORD will not hold him guiltless who takes his name in vain."
+            note: "3rd — Don't misuse God's name. Using it as a curse word treats the holiest name as trash."
+          - ref: Exodus 20:8-11
+            note: "4th — Keep the Sabbath. God made us to rest in Him and set apart time for Him."
+          - ref: Exodus 20:12
+            note: "5th — Honour your father and mother. Paul calls it the first commandment with a promise (Ephesians 6:2)."
+          - ref: Exodus 20:13
+            text: "“You shall not murder."
+            note: "6th — Protect innocent human life. Jesus will show that it reaches all the way down to anger."
+          - ref: Exodus 20:14
+            text: "“You shall not commit adultery."
+            note: "7th — Keep sex within marriage. Jesus will show that it reaches all the way down to lust."
+          - ref: Exodus 20:15
+            text: "“You shall not steal."
+            note: "8th — Taking anything that isn't yours, whatever its value, makes a person a thief."
+          - ref: Exodus 20:16
+            text: "“You shall not bear false witness against your neighbor."
+            note: "9th — No lying. Usually the easiest commandment for anyone to admit breaking."
+          - ref: Exodus 20:17
+            note: "10th — No coveting. This one is entirely internal — proof that God's Law was always about the heart."
+      - heading: "Jesus goes to the heart (Matthew 5 and 22)"
+        items:
+          - ref: Matthew 5:21-22
+            note: "Jesus says unjust anger puts us in danger of judgment, just as murder does. God sees the root, not just the fruit."
+          - ref: Matthew 5:27-28
+            text: "“You have heard that it was said, ‘You shall not commit adultery.’ But I say to you that everyone who looks at a woman with lustful intent has already committed adultery with her in his heart."
+            note: "The standard is not just what we do but what we want. Almost no one passes this one honestly."
+          - ref: Matthew 22:37-40
+            note: "Jesus sums up the whole Law as loving God with everything and loving our neighbour as ourselves."
+      - heading: "What the Law is for"
+        items:
+          - ref: James 2:10
+            text: "For whoever keeps the whole law but fails in one point has become guilty of all of it."
+            note: "The Law is a single chain. Break one link and the whole chain is broken."
+          - ref: Romans 3:19-20
+            note: "The Law can't make us right with God. It shows us our sin so we stop making excuses."
+          - ref: Galatians 3:24
+            note: "The Law acts like a guardian that leads us to Christ, so that we might be justified by faith."
+
+  # ---------------------------------------------------------------------------
+  - id: sin-and-the-human-condition
+    title: Sin and the Human Condition
+    summary: "Use this when someone insists people are basically good, or when you need to explain why we need rescuing and not just improving."
+    sections:
+      - heading: No one is the exception
+        items:
+          - ref: Romans 3:10-12
+            text: "as it is written: “None is righteous, no, not one; no one understands; no one seeks for God. All have turned aside; together they have become worthless; no one does good, not even one.”"
+            note: "Paul strings Old Testament verses together to show that the whole human race stands guilty before God."
+          - ref: Romans 3:23
+            note: "All have sinned. The ground is level at the foot of the cross."
+          - ref: Ecclesiastes 7:20
+            text: "Surely there is not a righteous man on earth who does good and never sins."
+            note: "Even the good things we do don't cancel out the fact that we also sin."
+          - ref: 1 John 1:8
+            text: "If we say we have no sin, we deceive ourselves, and the truth is not in us."
+            note: "Written to Christians. Denying our sin isn't humility or confidence — it's self-deception."
+      - heading: The problem is the heart
+        items:
+          - ref: Jeremiah 17:9
+            text: "The heart is deceitful above all things, and desperately sick; who can understand it?"
+            note: "Our hearts don't just do wrong; they also lie to us about how good we are."
+          - ref: Mark 7:21-23
+            note: "Jesus says evil comes from inside us, not from our surroundings. The fix has to be inside too."
+          - ref: Genesis 6:5
+            note: "Before the flood God saw that every intention of the human heart was evil continually."
+          - ref: Psalm 51:5
+            note: "David traces his sin back to the very start of his life. We are sinners by nature, not just by habit."
+      - heading: What sin is and what it does
+        items:
+          - ref: 1 John 3:4
+            note: "Sin is lawlessness — breaking God's Law, not just making mistakes or falling short of our own ideals."
+          - ref: Psalm 51:4
+            note: "Every sin, even against people, is first of all a sin against God."
+          - ref: Isaiah 64:6
+            text: "We have all become like one who is unclean, and all our righteous deeds are like a polluted garment. We all fade like a leaf, and our iniquities, like the wind, take us away."
+            note: "Even our best moral efforts are stained. Good deeds can't pay off a debt of sin."
+          - ref: Isaiah 59:2
+            note: "Sin separates us from God — that is the heart of the problem."
+          - ref: Ephesians 2:1-3
+            note: "Without Christ we are spiritually dead, not just sick. Dead people need life, not advice."
+          - ref: John 8:34
+            note: "Sin enslaves. People who think they are free to sin are often the least free."
+          - ref: Romans 5:12
+            note: "Sin and death entered the world through Adam, and death spread to all because all sinned."
+          - ref: Romans 1:18-21
+            note: "People know God exists but suppress that truth. The problem is moral, not just intellectual."
+
+  # ---------------------------------------------------------------------------
+  - id: judgment-day-and-hell
+    title: Judgment Day and Hell
+    summary: "Use this to show that Judgment Day is certain and personal, that hell is real — and that God takes no pleasure in anyone perishing."
+    sections:
+      - heading: Judgment is certain
+        items:
+          - ref: Hebrews 9:27
+            text: "And just as it is appointed for man to die once, and after that comes judgment,"
+            note: "Two appointments no one will miss: death, then judgment."
+          - ref: Acts 17:30-31
+            text: "The times of ignorance God overlooked, but now he commands all people everywhere to repent, because he has fixed a day on which he will judge the world in righteousness by a man whom he has appointed; and of this he has given assurance to all by raising him from the dead.”"
+            note: "The day is already fixed, the Judge is already appointed, and the resurrection is God's proof."
+          - ref: 2 Corinthians 5:10
+            note: "Everyone will stand before the judgment seat of Christ. No one is exempt."
+          - ref: Romans 2:16
+            note: "God will judge even the secrets of people's hearts, through Christ Jesus."
+      - heading: Nothing will be hidden
+        items:
+          - ref: Ecclesiastes 12:14
+            text: "For God will bring every deed into judgment, with every secret thing, whether good or evil."
+            note: "Secret sins aren't secret from God. Every deed comes into the light."
+          - ref: Matthew 12:36
+            text: "I tell you, on the day of judgment people will give account for every careless word they speak,"
+            note: "Even our words will be judged. That standard alone should make anyone reach for mercy."
+          - ref: Romans 2:5-6
+            note: "A hard, unrepentant heart is storing up wrath for the day when God will repay each person according to his works."
+          - ref: Revelation 20:11-15
+            note: "The great white throne: the dead are judged by what is written in the books, and only those in the book of life are spared."
+      - heading: Hell is real
+        items:
+          - ref: Matthew 10:28
+            text: "And do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell."
+            note: "Jesus Himself warns about hell — more often, in fact, than anyone else in the Bible."
+          - ref: Matthew 25:46
+            text: "And these will go away into eternal punishment, but the righteous into eternal life.”"
+            note: "Most evangelicals read this as conscious, everlasting punishment; some hold that the wicked are finally destroyed. Both agree the judgment is real, final, and to be feared."
+          - ref: Mark 9:43-48
+            note: "Jesus says it would be better to lose a hand or an eye than to be thrown into hell. He isn't exaggerating the danger."
+          - ref: 2 Thessalonians 1:8-9
+            note: "Hell is described as eternal destruction, away from the presence of the Lord."
+          - ref: Luke 16:19-31
+            note: "The rich man and Lazarus: after death there is no second chance, and no crossing over."
+      - heading: God's heart and the way out
+        items:
+          - ref: Ezekiel 33:11
+            note: "God takes no pleasure in the death of the wicked. He pleads with people to turn and live."
+          - ref: 2 Peter 3:9
+            note: "The delay of judgment is God's patience, giving people time to repent."
+          - ref: John 5:24
+            note: "Whoever hears Jesus' word and believes has passed from death to life and does not come into judgment."
+
+  # ---------------------------------------------------------------------------
+  - id: the-cross-and-substitution
+    title: The Cross and Substitution
+    summary: "Use this to explain what actually happened at the cross — Jesus taking the penalty we deserved, so God can be both just and merciful."
+    sections:
+      - heading: Foretold centuries before
+        items:
+          - ref: Isaiah 53:5
+            text: "But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed."
+            note: "Written about 700 years before the cross: the Servant suffers for other people's sins, not His own."
+          - ref: Isaiah 53:6
+            text: "All we like sheep have gone astray; we have turned—every one—to his own way; and the LORD has laid on him the iniquity of us all."
+            note: "Our sin wasn't overlooked. It was laid on someone else."
+          - ref: Isaiah 53:10
+            note: "It was the Lord's will to crush Him — the cross was God's plan, not an accident."
+      - heading: In our place
+        items:
+          - ref: Mark 10:45
+            text: "For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.”"
+            note: "Jesus understood His own death as a ransom — a price paid to set others free."
+          - ref: 2 Corinthians 5:21
+            text: "For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God."
+            note: "The great exchange: our sin to Him, His righteousness to us."
+          - ref: 1 Peter 3:18
+            text: "For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit,"
+            note: "Once for all, the righteous for the unrighteous, to bring us back to God."
+          - ref: 1 Peter 2:24
+            text: "He himself bore our sins in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed."
+            note: "The cross doesn't just forgive — it frees us to live differently."
+          - ref: Galatians 3:13
+            note: "Christ became a curse for us, taking the curse the Law pronounces on lawbreakers."
+      - heading: Justice and mercy meet
+        items:
+          - ref: Romans 3:26
+            text: "It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus."
+            note: "The cross answers the hardest question: how can a just God forgive guilty people without ignoring justice?"
+          - ref: 1 John 4:10
+            note: "Love sent the Son to be the propitiation for our sins — the sacrifice that turns away God's just wrath."
+          - ref: Romans 5:8-9
+            note: "We are justified by His blood and saved through Him from the wrath of God."
+      - heading: Finished and freely given
+        items:
+          - ref: John 19:30
+            note: "“It is finished.” The debt is paid in full; nothing is left for us to add."
+          - ref: Hebrews 10:12-14
+            note: "One sacrifice for sins for all time. Jesus sat down because the work was complete."
+          - ref: John 10:17-18
+            note: "No one took Jesus' life from Him. He laid it down of His own accord."
+          - ref: Romans 4:5
+            note: "God justifies the ungodly who trust Him, not the godly who try to earn it."
+
+  # ---------------------------------------------------------------------------
+  - id: repentance-and-faith
+    title: Repentance and Faith
+    summary: "Use this when explaining how a person should respond to the gospel — turning from sin and trusting Christ alone."
+    sections:
+      - heading: God commands repentance
+        items:
+          - ref: Luke 13:3
+            text: "No, I tell you; but unless you repent, you will all likewise perish."
+            note: "Jesus says it plainly: repentance isn't optional extra credit."
+          - ref: Acts 17:30
+            note: "God commands all people everywhere to repent — not just the obviously wicked."
+          - ref: Acts 3:19
+            text: "Repent therefore, and turn back, that your sins may be blotted out,"
+            note: "Repentance means turning back to God, and the promise is that sins are wiped away."
+          - ref: Acts 26:20
+            note: "Real repentance shows up in changed living. Deeds don't save, but they reveal a changed heart."
+      - heading: What real repentance looks like
+        items:
+          - ref: 2 Corinthians 7:10
+            text: "For godly grief produces a repentance that leads to salvation without regret, whereas worldly grief produces death."
+            note: "Being sorry you got caught isn't the same as being sorry you sinned against God."
+          - ref: Proverbs 28:13
+            text: "Whoever conceals his transgressions will not prosper, but he who confesses and forsakes them will obtain mercy."
+            note: "Confess and forsake — two sides of true repentance. Mercy is promised to the one who does both."
+          - ref: Psalm 51:1-4
+            note: "David's prayer after his great sin: a model of honest confession that appeals to God's mercy."
+          - ref: Luke 15:17-20
+            note: "The prodigal son comes to his senses, gets up, and goes home — and the father runs to meet him."
+          - ref: 1 Thessalonians 1:9
+            note: "Conversion is turning to God from idols to serve the living and true God."
+      - heading: Saving faith
+        items:
+          - ref: Romans 10:9
+            text: "because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved."
+            note: "Faith trusts the risen Jesus and submits to Him as Lord."
+          - ref: John 1:12
+            text: "But to all who did receive him, who believed in his name, he gave the right to become children of God,"
+            note: "Believing means receiving Jesus Himself — not just agreeing with facts about Him."
+          - ref: Ephesians 2:8-9
+            note: "Even faith isn't a work we earn credit for. Salvation is God's gift from start to finish."
+          - ref: James 2:19
+            note: "Even demons believe God exists. Saving faith is trust, not just correct information."
+          - ref: John 3:36
+            note: "Whoever believes in the Son has eternal life; whoever refuses to obey the Son remains under God's wrath."
+          - ref: 1 John 1:9
+            text: "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."
+            note: "For the Christian who stumbles: keep coming back. God is faithful to forgive because Christ has paid."
+
+  # ---------------------------------------------------------------------------
+  - id: assurance-of-salvation
+    title: Assurance of Salvation
+    summary: "Use this with a believer who wonders if they're really saved — or with someone who is confidently trusting the wrong thing."
+    sections:
+      - heading: God wants you to know
+        items:
+          - ref: 1 John 5:13
+            text: "I write these things to you who believe in the name of the Son of God, that you may know that you have eternal life."
+            note: "Assurance isn't arrogance. John wrote so that believers could know, not just hope."
+          - ref: John 5:24
+            text: "Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life."
+            note: "Present tense: the believer has eternal life now, and the verdict is already in."
+          - ref: Romans 8:1
+            text: "There is therefore now no condemnation for those who are in Christ Jesus."
+            note: "Not less condemnation — no condemnation, because Christ has taken it."
+      - heading: Kept by God
+        items:
+          - ref: John 10:27-28
+            text: "My sheep hear my voice, and I know them, and they follow me. I give them eternal life, and they will never perish, and no one will snatch them out of my hand."
+            note: "Our security rests on the Shepherd's grip on us, not on our grip on Him."
+          - ref: Romans 8:38-39
+            text: "For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord."
+            note: "Paul lists everything he can think of — and none of it can separate believers from God's love."
+          - ref: Philippians 1:6
+            text: "And I am sure of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ."
+            note: "God finishes what He starts."
+          - ref: Hebrews 7:25
+            note: "Jesus always lives to intercede for those who draw near to God through Him."
+          - ref: Ephesians 1:13-14
+            note: "The Holy Spirit is God's seal and down payment, guaranteeing what is still to come."
+      - heading: Signs of real faith
+        items:
+          - ref: 2 Corinthians 13:5
+            note: "Examine yourself: is Christ really in you? Honest self-examination is healthy, not faithless."
+          - ref: 1 John 2:3-6
+            note: "Those who know Christ increasingly want to obey Him. Not perfection — direction."
+          - ref: Galatians 5:22-23
+            note: "The fruit of the Spirit grows over time: love, joy, peace, patience and more."
+          - ref: Romans 8:16
+            note: "The Spirit Himself testifies with our spirit that we are God's children."
+      - heading: A warning about false assurance
+        items:
+          - ref: Matthew 7:21-23
+            note: "Some who call Jesus “Lord” and did religious things will hear “I never knew you.” Assurance rests on knowing Christ, not on religious activity."
+          - ref: James 2:17
+            note: "Faith that never shows itself in action is dead. Real faith works."
+          - ref: 2 Peter 1:10
+            note: "Be diligent to confirm your calling and election — growth in godliness strengthens assurance."
+          - ref: Hebrews 6:4-6
+            note: "Christians differ on whether a true believer can finally fall away (Calvinist and Arminian readings), but all agree that assurance rests on Christ's work, not our performance."
+
+  # ---------------------------------------------------------------------------
+  - id: deity-of-christ
+    title: The Deity of Christ
+    summary: "Use this with Jehovah's Witnesses, Muslims, or anyone who says Jesus was only a good teacher or prophet."
+    sections:
+      - heading: Scripture calls Jesus God
+        items:
+          - ref: John 1:1
+            text: "In the beginning was the Word, and the Word was with God, and the Word was God."
+            note: "The Word was with God (distinct from the Father) and was God (fully divine). Read with verse 14, the Word is Jesus."
+          - ref: John 20:28
+            text: "Thomas answered him, “My Lord and my God!”"
+            note: "Thomas calls Jesus God to His face — and Jesus accepts it rather than correcting him."
+          - ref: Titus 2:13
+            text: "waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ,"
+            note: "Paul calls Jesus “our great God and Savior.”"
+          - ref: Colossians 2:9
+            text: "For in him the whole fullness of deity dwells bodily,"
+            note: "Not a portion of deity — the whole fullness, living in a human body."
+          - ref: Hebrews 1:8
+            note: "The Father Himself addresses the Son as God, quoting Psalm 45."
+      - heading: Jesus claimed what only God can claim
+        items:
+          - ref: John 8:58
+            text: "Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.”"
+            note: "Jesus takes the divine name of Exodus 3:14. His hearers understood — they picked up stones (v. 59)."
+          - ref: John 10:30
+            text: "I and the Father are one.”"
+            note: "The crowd again reached for stones because, they said, He was making Himself God (v. 33)."
+          - ref: Mark 2:5-10
+            note: "Jesus forgives sins committed against God. The scribes rightly asked, “Who can forgive sins but God alone?”"
+          - ref: Mark 14:61-64
+            note: "At His trial Jesus claims to be the Son of Man of Daniel 7 who comes with the clouds — and is condemned for blasphemy."
+          - ref: John 5:18
+            note: "His opponents understood Him to be making Himself equal with God."
+      - heading: He does what only God does
+        items:
+          - ref: Colossians 1:16-17
+            note: "All things were created through Him and hold together in Him. The Creator can't be a creature."
+          - ref: Matthew 28:9
+            note: "Jesus receives worship — something angels and apostles refuse (Revelation 22:8-9; Acts 14:14-15)."
+          - ref: Revelation 1:17-18
+            note: "Jesus calls Himself “the first and the last,” the title God claims for Himself alone in Isaiah 44:6."
+      - heading: Fully God, fully man
+        items:
+          - ref: John 1:14
+            text: "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth."
+            note: "The eternal Word became truly human without ceasing to be God."
+          - ref: Philippians 2:5-8
+            note: "Though He was in the form of God, He humbled Himself to become a servant and die on a cross."
+
+  # ---------------------------------------------------------------------------
+  - id: the-trinity
+    title: The Trinity
+    summary: "Use this to show that the Trinity isn't a later invention — it's what you get when you hold together everything the Bible says about God."
+    sections:
+      - heading: There is only one God
+        items:
+          - ref: Deuteronomy 6:4
+            text: "“Hear, O Israel: The LORD our God, the LORD is one."
+            note: "The foundation of biblical faith. Christians are monotheists, not believers in three gods."
+          - ref: Isaiah 45:5
+            note: "There is no other God besides the LORD. There are no lesser gods alongside Him."
+          - ref: Isaiah 43:10
+            note: "No god was formed before Him, and none will come after Him."
+          - ref: 1 Corinthians 8:6
+            text: "yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist."
+            note: "Paul expands the Shema of Deuteronomy 6:4 to include Jesus within the one God's identity."
+      - heading: Three persons, each fully God
+        items:
+          - ref: John 6:27
+            note: "The Father is called God — no one disputes this."
+          - ref: John 1:1
+            note: "The Son (the Word) was with God and was God."
+          - ref: Hebrews 1:8
+            note: "The Father addresses the Son as God."
+          - ref: Acts 5:3-4
+            note: "Lying to the Holy Spirit is described as lying to God."
+          - ref: 1 Corinthians 2:10-11
+            note: "The Spirit searches the depths of God and knows His thoughts — only God can know God that way."
+      - heading: Distinct persons, not three modes
+        items:
+          - ref: Matthew 3:16-17
+            note: "At Jesus' baptism the Son is baptised, the Spirit descends, and the Father speaks — all at once."
+          - ref: John 17:5
+            note: "The Son shared glory with the Father before the world existed. They relate to each other eternally."
+          - ref: John 14:16-17
+            note: "Jesus asks the Father to send “another Helper,” the Spirit. Three distinct persons in one sentence."
+          - ref: Ephesians 4:30
+            note: "The Spirit can be grieved. He is a person, not an impersonal force."
+      - heading: Named together
+        items:
+          - ref: Matthew 28:19
+            text: "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,"
+            note: "One name (singular), three persons. Every new believer is baptised into this."
+          - ref: 2 Corinthians 13:14
+            text: "The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all."
+            note: "Paul's blessing puts all three side by side as equal sources of blessing."
+          - ref: 1 Peter 1:2
+            note: "Salvation is the work of all three: chosen by the Father, sanctified by the Spirit, cleansed by the Son's blood. Every analogy breaks down somewhere — stick to what Scripture says."
+
+  # ---------------------------------------------------------------------------
+  - id: the-resurrection
+    title: The Resurrection
+    summary: "Use this to show the historical case for the resurrection and why everything in Christianity stands or falls on it."
+    sections:
+      - heading: The earliest summary
+        items:
+          - ref: 1 Corinthians 15:3-4
+            text: "For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures,"
+            note: "Most scholars, including many skeptics, date this creed to within a few years of the crucifixion."
+          - ref: 1 Corinthians 15:5-8
+            note: "A list of named witnesses — Peter, the Twelve, over 500 at once, James, and Paul himself."
+          - ref: Galatians 1:18-19
+            note: "Paul met Peter and James in Jerusalem within a few years of his conversion — likely where he received the creed."
+      - heading: Facts most historians grant
+        items:
+          - ref: Mark 15:43-46
+            note: "Jesus died by crucifixion and was buried. His death is one of the best-attested facts of ancient history."
+          - ref: Mark 16:1-8
+            note: "The tomb was found empty — and by women, whose testimony carried little weight then. Not a detail you'd invent."
+          - ref: Matthew 28:11-15
+            note: "Even Jesus' opponents admitted the tomb was empty; they just offered a different explanation."
+          - ref: Luke 24:36-43
+            note: "The disciples sincerely believed they saw Jesus alive, physically — He ate in front of them."
+          - ref: John 7:5
+            note: "Jesus' brother James was a skeptic during Jesus' ministry, yet became a leader in the Jerusalem church."
+          - ref: Acts 9:1-6
+            note: "Paul was a persecutor of the church until he met the risen Christ. (These are among Gary Habermas's “minimal facts.”)"
+      - heading: Why it matters
+        items:
+          - ref: 1 Corinthians 15:14
+            text: "And if Christ has not been raised, then our preaching is in vain and your faith is in vain."
+            note: "Christianity stakes everything on a historical event. That makes it testable."
+          - ref: 1 Corinthians 15:17
+            text: "And if Christ has not been raised, your faith is futile and you are still in your sins."
+            note: "No resurrection, no forgiveness. The cross only saves because the one who died now lives."
+          - ref: 1 Corinthians 15:20
+            text: "But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep."
+            note: "Firstfruits means more to come: His resurrection guarantees ours."
+          - ref: Romans 1:4
+            note: "The resurrection declared Jesus to be the Son of God in power."
+          - ref: Acts 17:31
+            note: "The resurrection is God's proof that Jesus will judge the world."
+      - heading: The hope it gives
+        items:
+          - ref: John 11:25-26
+            text: "Jesus said to her, “I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die. Do you believe this?”"
+            note: "Jesus ends with a personal question. It's a good one to ask the person in front of you."
+
+  # ---------------------------------------------------------------------------
+  - id: reliability-of-scripture
+    title: The Reliability and Authority of Scripture
+    summary: "Use this when someone asks why you trust the Bible, or when you need to show what the Bible claims about itself and how Jesus treated it."
+    sections:
+      - heading: God's own word
+        items:
+          - ref: 2 Timothy 3:16-17
+            text: "All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, that the man of God may be complete, equipped for every good work."
+            note: "Scripture comes from God's own breath — it carries His authority, not merely human opinion."
+          - ref: 2 Peter 1:20-21
+            text: "knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit."
+            note: "Human authors really wrote, but the Spirit carried them along so that what they wrote is God's word."
+          - ref: John 10:35
+            note: "Jesus: “Scripture cannot be broken.”"
+          - ref: Matthew 5:17-18
+            note: "Jesus came to fulfil the Law and the Prophets, and not the smallest stroke will pass away until all is accomplished."
+      - heading: How Jesus treated Scripture
+        items:
+          - ref: Matthew 4:4
+            note: "Jesus answered temptation with Scripture: we live by every word from the mouth of God."
+          - ref: John 17:17
+            text: "Sanctify them in the truth; your word is truth."
+            note: "Not merely “contains truth” — God's word is truth."
+          - ref: Luke 24:44
+            note: "Jesus said everything written about Him in the Law, the Prophets and the Psalms must be fulfilled."
+      - heading: Rooted in eyewitness history
+        items:
+          - ref: 2 Peter 1:16
+            text: "For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty."
+            note: "The apostles knew the difference between myth and history, and they claimed history."
+          - ref: Luke 1:1-4
+            note: "Luke says he carefully investigated everything from eyewitness sources, so readers could have certainty."
+          - ref: 1 John 1:1-3
+            note: "What we have heard, seen with our eyes and touched with our hands — John writes as a witness."
+          - ref: 2 Peter 3:15-16
+            note: "Peter already places Paul's letters alongside “the other Scriptures.”"
+      - heading: It lasts, and it works
+        items:
+          - ref: Isaiah 40:8
+            text: "The grass withers, the flower fades, but the word of our God will stand forever."
+            note: "Empires and critics come and go. God's word outlasts them all."
+          - ref: Hebrews 4:12
+            note: "God's word is living and active, cutting to the thoughts and intentions of the heart."
+          - ref: Acts 17:11
+            note: "The Bereans checked everything against Scripture. Christians shouldn't fear honest investigation."
+          - ref: Psalm 119:160
+            note: "The sum of God's word is truth, and every one of His righteous rules endures forever."
+
+  # ---------------------------------------------------------------------------
+  - id: sanctity-of-human-life
+    title: The Sanctity of Human Life
+    summary: "Use this when discussing abortion, euthanasia, or human worth — why every human life, born or unborn, bears God's image."
+    sections:
+      - heading: Made in God's image
+        items:
+          - ref: Genesis 1:27
+            text: "So God created man in his own image, in the image of God he created him; male and female he created them."
+            note: "Human value comes from being made in God's image, not from size, ability, or usefulness."
+          - ref: Genesis 9:6
+            text: "“Whoever sheds the blood of man, by man shall his blood be shed, for God made man in his own image."
+            note: "Taking innocent human life is so serious because it attacks the image of God."
+          - ref: James 3:9
+            note: "Even cursing people is wrong because they are made in God's likeness."
+      - heading: Known in the womb
+        items:
+          - ref: Psalm 139:13-14
+            text: "For you formed my inward parts; you knitted me together in my mother's womb. I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well."
+            note: "God is personally at work in the womb. David speaks of his unborn self as “me.”"
+          - ref: Jeremiah 1:5
+            text: "“Before I formed you in the womb I knew you, and before you were born I consecrated you; I appointed you a prophet to the nations.”"
+            note: "God knew and called Jeremiah before birth. Personal identity doesn't start at delivery."
+          - ref: Luke 1:41-44
+            note: "The unborn John leaps for joy in the presence of the unborn Jesus. Luke uses the same word for “baby” he later uses for the newborn Jesus (Luke 2:12)."
+          - ref: Psalm 51:5
+            note: "David sees himself as the same person from conception onward."
+          - ref: Job 31:15
+            note: "The same God made both master and servant in the womb — equal worth from the start."
+      - heading: Protect the innocent
+        items:
+          - ref: Exodus 20:13
+            note: "“You shall not murder.” It is wrong to intentionally kill an innocent human being."
+          - ref: Proverbs 6:16-17
+            note: "Among the things the Lord hates: hands that shed innocent blood."
+          - ref: Proverbs 24:11-12
+            note: "Rescue those being taken away to death. Claiming ignorance is not an excuse God accepts."
+          - ref: Proverbs 31:8-9
+            note: "Open your mouth for those who cannot speak for themselves."
+          - ref: Exodus 21:22-25
+            note: "Translations and interpreters differ on this passage, so don't build your case on it. The case stands on the clearer texts."
+      - heading: Grace for the guilty, care for the vulnerable
+        items:
+          - ref: Psalm 103:12
+            note: "For anyone carrying the weight of a past abortion: in Christ, God removes our sins as far as east is from west."
+          - ref: 1 Timothy 1:15
+            note: "Paul, a former persecutor who approved killings, calls himself the foremost of sinners — and found mercy."
+          - ref: James 1:27
+            note: "Pro-life means caring for the vulnerable after birth too — orphans, widows, and struggling mothers."

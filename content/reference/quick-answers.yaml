@@ -1,0 +1,936 @@
+# Quick Answers to Tough Questions
+# Schema:
+# answers:
+#   - id: kebab-case-unique
+#     question: "The question as people actually ask it"
+#     category: God | Bible | Jesus | Suffering & Evil | Science | Morality | Salvation & Hell | Other Religions | Church & Christians
+#     short: One or two sentences you could say in 15 seconds.
+#     answer: >-
+#       The fuller answer, 80–180 words, plain language.
+#     verses: [Romans 1:20, ...]   # references only — no quoted text in this file
+#     related: [apologetics-1, ...] # lesson ids (optional)
+answers:
+  # ---------------------------------------------------------------- God
+  - id: why-did-god-create
+    question: "If God doesn't need anything, why did He create the world at all?"
+    category: God
+    short: >-
+      Not because He was lonely or lacking, but because He is generous. God made the world to
+      share His goodness and to show His glory, the way an artist creates out of overflow, not need.
+    answer: >-
+      Christianity teaches that God is complete in Himself. Before anything was made, the Father,
+      Son and Holy Spirit already enjoyed perfect love and fellowship, so God was never bored,
+      lonely or incomplete. That means creation is a gift, not a transaction. God made the world
+      freely, to display His glory (His beauty, power and goodness) and to invite creatures into
+      the joy He already has. We are made to know Him, enjoy Him and reflect Him. That also
+      answers the deeper question people are usually asking: "Why am I here?" You are not an
+      accident, and you are not here to meet some need in God. You were made on purpose, by a
+      Person, for relationship with Him. Sin broke that relationship, which is why the story of
+      the Bible moves from creation to the cross, where God acts to bring us back.
+    verses: [Acts 17:24-28, Revelation 4:11, Colossians 1:16, Isaiah 43:7, John 17:24]
+    related: [apologetics-1, foundations-2]
+
+  - id: who-made-god
+    question: "If everything needs a cause, then who made God?"
+    category: God
+    short: >-
+      The argument isn't that everything needs a cause, only that everything which begins to
+      exist does. God, by definition, never began, so asking who made Him is like asking who
+      married the bachelor.
+    answer: >-
+      This question usually misstates the argument. No careful Christian thinker says
+      "everything has a cause." The claim, made popular by William Lane Craig's kalam
+      argument, is that whatever begins to exist has a cause. The universe began to exist (the
+      evidence for a beginning is strong), so it needs a cause outside itself. God, as the
+      Bible describes Him, is eternal: He never began. So He doesn't need a maker. That's not a
+      special exception invented for God; the skeptic's own options work the same way. Something
+      must be eternal, or nothing would exist now, because nothing comes from nothing. The real
+      question is which is the better candidate for that eternal something: a universe that
+      shows every sign of having begun, or a timeless, powerful, personal Creator? A gentle
+      follow-up question: "What do you think is the best explanation for why anything exists at
+      all?"
+    verses: [Genesis 1:1, Psalm 90:2, John 1:1-3, Revelation 1:8]
+    related: [apologetics-1, tactics-2, tactics-3]
+
+  - id: why-doesnt-god-show-himself
+    question: "If God is real, why doesn't He just show Himself?"
+    category: God
+    short: >-
+      He has, in creation, in our conscience, and most clearly in Jesus, who walked among us.
+      The problem usually isn't that God is hidden, but that we'd rather He stayed away.
+    answer: >-
+      The Bible says God has revealed Himself in several ways. Creation shows His power and
+      design. Conscience shows His moral law written on our hearts. And in Jesus, God did
+      exactly what the question asks: He stepped into history, where people could see, hear and
+      touch Him. Many who saw His miracles still refused to believe, which shows that more
+      evidence doesn't automatically produce more trust. Jesus even taught that someone who
+      ignores the Scriptures would not be persuaded if a person rose from the dead. God is not
+      after mere acknowledgment (even demons believe He exists); He wants people to turn to Him
+      in love and trust. If He appeared in full glory right now, it would be Judgment Day, not
+      an invitation. His present patience is a mercy that gives people time to repent. And He
+      promises that those who seek Him with all their heart will find Him.
+    verses: [Romans 1:19-20, Romans 2:14-15, John 1:14, John 14:9, Luke 16:31, Jeremiah 29:13, 2 Peter 3:9]
+    related: [apologetics-1, apologetics-6, foundations-4, gospel-3]
+
+  - id: isnt-atheism-more-rational
+    question: "Isn't atheism just the more rational position?"
+    category: God
+    short: >-
+      Only if atheism can explain why there's a universe, why it's fine-tuned for life, why
+      morality is real, and why our minds can be trusted. Those are hard questions for a
+      purely material world.
+    answer: >-
+      Atheism often presents itself as the default: "I just lack belief." But most atheists
+      also hold a positive view, that nature is all there is. That view carries its own burden
+      of proof. It must explain why the universe began, why its physical constants fall within
+      the narrow range life requires, why objective moral values feel binding on us, and why
+      minds produced by blind processes aimed only at survival should be trusted to find truth.
+      Christians argue that God explains all four better. That doesn't make every atheist
+      irrational; many are thoughtful and sincere, and some Christians believe for poor reasons.
+      But rationality is about following the evidence where it leads, not about which side
+      sounds more modern. A good question to ask: "If there were a God, what kind of evidence
+      would you expect to see?" You may find the evidence already points there.
+    verses: [Psalm 14:1, Psalm 19:1, Romans 1:20, Acts 17:24-27]
+    related: [worldviews-1, apologetics-1, apologetics-2, apologetics-3, tactics-2]
+
+  - id: trinity-contradiction
+    question: "Isn't the Trinity a contradiction? How can three be one?"
+    category: God
+    short: >-
+      It would be a contradiction to say God is one being and three beings, or one person and
+      three persons. The Trinity says God is one What and three Whos: one being, three persons.
+    answer: >-
+      A contradiction means affirming and denying the same thing in the same sense. The
+      doctrine of the Trinity doesn't do that. It says there is one God (one divine being or
+      nature) who exists eternally as three distinct persons: the Father, the Son and the Holy
+      Spirit. "Being" answers the question "what is it?"; "person" answers "who is it?" So God
+      is one What and three Whos. That's mysterious, which we should expect if God is greater
+      than us, but mystery is not contradiction. The doctrine wasn't invented by later councils;
+      it summarises what the Bible shows: Scripture insists there is only one God, yet it calls
+      the Father God, the Son God and the Spirit God, and it shows them relating to each other
+      in love. Analogies (water, ice, steam) tend to break down, so it's usually better to
+      explain the terms plainly than to reach for an illustration.
+    verses: [Deuteronomy 6:4, Matthew 28:19, John 1:1-3, John 1:14, Acts 5:3-4, 2 Corinthians 13:14]
+    related: [worldviews-4, worldviews-5, worldviews-3]
+
+  - id: isnt-faith-blind
+    question: "Isn't faith just believing something without evidence?"
+    category: God
+    short: >-
+      Not biblical faith. In the Bible, faith is trust based on good reasons, like trusting a
+      bridge you've examined or a friend who's proven reliable.
+    answer: >-
+      Some people define faith as "believing what you know isn't true" or "believing without
+      evidence." That isn't what the Bible means. Biblical faith is trust in a person, God,
+      based on what He has shown about Himself. The Gospel writers deliberately offer evidence:
+      Luke says he investigated carefully; John says he wrote down signs so that readers might
+      believe; Paul lists eyewitnesses of the risen Jesus who could still be questioned. Faith
+      goes beyond what we can prove, the way trusting a spouse goes beyond a background check,
+      but it isn't opposed to evidence. Everyone lives by some kind of trust: in doctors,
+      historians, scientists and their own reasoning. The question is never "faith or no
+      faith?" but "is my trust well placed?" Christians also believe the Holy Spirit gives
+      inner assurance, so reasons and the Spirit work together, not against each other.
+    verses: [John 20:30-31, Luke 1:1-4, Acts 1:3, 1 Corinthians 15:3-8, Hebrews 11:1, 1 Peter 3:15]
+    related: [foundations-4, foundations-1, apologetics-6]
+
+  # ---------------------------------------------------------------- Bible
+  - id: can-we-trust-the-bible
+    question: "Why should anyone trust the Bible?"
+    category: Bible
+    short: >-
+      Because it's the best-preserved ancient text we have, its history keeps being confirmed,
+      and it centres on a claim that can be investigated: that Jesus rose from the dead.
+    answer: >-
+      Trusting the Bible doesn't require switching your brain off. Start with the documents: we
+      have thousands of New Testament manuscripts, some within a few generations of the
+      originals, far more than for any other ancient work. The Gospels read like history, naming
+      real rulers, places and customs, and archaeology has repeatedly confirmed details critics
+      once doubted. The New Testament writers claim to be eyewitnesses or to have interviewed
+      eyewitnesses. Most importantly, everything hinges on one testable event, the resurrection.
+      If Jesus rose, His view of Scripture is the one to trust, and He treated the Old Testament
+      as God's Word and promised His apostles the Spirit's help to remember and teach. So you
+      don't have to begin by assuming the Bible is inspired. Begin by treating it as a set of
+      historical sources, follow the evidence to Jesus, and let Him tell you what to think of
+      the rest.
+    verses: [2 Timothy 3:16-17, 2 Peter 1:16, Luke 1:1-4, John 14:26, Matthew 5:17-18]
+    related: [apologetics-4, apologetics-5, apologetics-6]
+
+  - id: bible-written-by-men
+    question: "Wasn't the Bible just written by men?"
+    category: Bible
+    short: >-
+      Yes, it was written by about forty human authors, and Christians say God worked through
+      them. The question isn't whether humans held the pen, but whether God was behind the words.
+    answer: >-
+      Christians happily agree that people wrote the Bible: shepherds, kings, fishermen, a tax
+      collector, a doctor and a former persecutor of the church, across roughly 1,500 years and
+      three languages. Their personalities and styles show through. The Christian claim is that
+      God guided these writers so that what they wrote is also what He wanted said. This is
+      called inspiration. It's a bit like a letter dictated through different secretaries, or
+      an author who works through characters, except that God used their real voices rather than
+      overriding them. Saying "men wrote it" doesn't disprove this; it just restates part of it.
+      To show the Bible is merely human, you'd need to deal with the reasons Christians give:
+      its unity across centuries, fulfilled prophecy, its historical reliability, and above all
+      Jesus' resurrection and His own view of Scripture.
+    verses: [2 Peter 1:20-21, 2 Timothy 3:16, 1 Thessalonians 2:13, Hebrews 1:1-2]
+    related: [apologetics-4, apologetics-5, tactics-3]
+
+  - id: bible-changed-over-time
+    question: "Hasn't the Bible been changed so many times over the centuries?"
+    category: Bible
+    short: >-
+      No. We don't have a copy of a copy of a copy in a single line; we have thousands of early
+      manuscripts we can compare, which lets scholars recover the original wording with great
+      confidence.
+    answer: >-
+      People often picture the "telephone game," where a message passes down one line and gets
+      garbled. Bible transmission worked differently. Copies spread in many directions at once,
+      so today scholars can compare over 5,000 Greek New Testament manuscripts, plus early
+      translations and quotations by church leaders. Where copyists made mistakes, the other
+      copies expose them. Yes, there are many variants, but the vast majority are spelling
+      differences, word order or obvious slips, and no core Christian belief depends on a
+      disputed reading. Your Bible's footnotes openly mark the uncertain spots. The Old
+      Testament tells a similar story: when the Dead Sea Scrolls were found, a copy of Isaiah
+      about a thousand years older than the previous oldest Hebrew manuscripts turned out to be
+      remarkably close to them. Translations change English wording, but they translate from
+      these ancient texts, not from earlier translations.
+    verses: [Isaiah 40:8, Matthew 24:35, 1 Peter 1:24-25]
+    related: [apologetics-4]
+
+  - id: bible-contradictions
+    question: "Isn't the Bible full of contradictions?"
+    category: Bible
+    short: >-
+      Which one did you have in mind? Most alleged contradictions turn out to be differences in
+      detail or perspective, the kind you'd expect from independent eyewitnesses, not true
+      contradictions.
+    answer: >-
+      Start by asking for a specific example; many people have heard the claim but never looked
+      at one. Then remember what a contradiction is: two statements that cannot both be true in
+      the same sense at the same time. Many "contradictions" don't meet that bar. For example,
+      one Gospel mentions one angel at the tomb and another mentions two. If there were two,
+      there was certainly one; the writer simply focused on the one who spoke. Differences like
+      this actually suggest independent testimony rather than collusion, and historians treat
+      ancient sources this way all the time. Other puzzles dissolve when you consider genre,
+      rounding of numbers, different calendars or copyist errors in numbers. Christians differ
+      on how to handle the hardest cases, but a handful of difficult passages is very different
+      from a book "full of contradictions." Honest study usually builds confidence.
+    verses: [Matthew 28:2-5, Mark 16:5, Luke 24:4, John 20:12, Proverbs 18:17]
+    related: [apologetics-4, tactics-1, tactics-2]
+
+  - id: who-chose-the-books
+    question: "Who decided which books got into the Bible?"
+    category: Bible
+    short: >-
+      The church didn't create the canon; it recognised it. The books were accepted because
+      they were apostolic, consistent with the faith, and already used by churches everywhere.
+    answer: >-
+      There was no single meeting where people voted on books they liked. The Old Testament
+      Jesus used was already settled among Jews, and He endorsed it. For the New Testament, the
+      earliest Christians accepted writings connected to the apostles, consistent with the
+      teaching handed down, and widely read in the churches. Most of the 27 books, including the
+      four Gospels and Paul's letters, were accepted very early; a few, such as 2 Peter and
+      Revelation, were debated longer. By AD 367 Athanasius listed exactly the 27 we have, and
+      later councils confirmed what churches already recognised. Later "gospels," like the
+      Gospel of Thomas or Judas, came too late and taught a different message. Note: Catholics
+      and Orthodox include some additional Old Testament books (often called the Apocrypha or
+      deuterocanonical books) that Protestants don't treat as Scripture.
+    verses: [Luke 24:44, 2 Peter 3:15-16, 1 Timothy 5:18, Jude 3]
+    related: [apologetics-4, worldviews-6]
+
+  - id: slavery-in-the-bible
+    question: "Doesn't the Bible support slavery?"
+    category: Bible
+    short: >-
+      The Bible regulates practices it didn't invent, but it condemns man-stealing, which was
+      the basis of the transatlantic slave trade, and it teaches that every person bears God's
+      image. That's the truth that eventually brought slavery down.
+    answer: >-
+      This deserves an honest answer. The Old Testament law was given to a people living in a
+      world where servitude was everywhere. Much of Israelite "slavery" was debt service, often
+      voluntary and time-limited, with release in the seventh year. The law also protected
+      runaway slaves and made kidnapping a person to sell them a capital crime. Some texts about
+      foreign servants are genuinely harder, and Christians shouldn't pretend otherwise. Jesus
+      taught that some laws were concessions to human hardness of heart, not God's ideal. The New
+      Testament didn't launch a revolt, but it planted the seeds of abolition: masters and slaves
+      are brothers, equal in Christ, and "enslavers" are listed among the lawless. That's why
+      many leading abolitionists, such as William Wilberforce, were driven by their faith.
+      Sadly, others twisted Scripture to defend slavery, which was a betrayal of it, not its
+      fulfilment.
+    verses: [Genesis 1:27, Exodus 21:16, Deuteronomy 15:12-15, Deuteronomy 23:15-16, Matthew 19:8, 1 Timothy 1:10, Galatians 3:28, Philemon 15-16]
+    related: [apologetics-3, apologetics-4]
+
+  - id: old-testament-violence
+    question: "Why is the God of the Old Testament so violent?"
+    category: Bible
+    short: >-
+      The conquest of Canaan was a rare, specific act of judgment on nations after centuries of
+      patience, not a blank cheque for violence. And the same Old Testament shows a God who is
+      slow to anger and who spared anyone who turned to Him.
+    answer: >-
+      People usually mean the conquest of Canaan. A few things help. First, it was judgment, not
+      ethnic hatred: God waited over four centuries while those cultures practised things like
+      child sacrifice, and He judged Israel by the same standard later. Second, it was limited
+      to one time and place; it was never a command for all believers, and Christians today have
+      no such mandate. Third, mercy was always possible: Rahab and her family, Canaanites, were
+      spared and even became part of Jesus' family line. Christians differ on some details. Some
+      scholars (for example Paul Copan) argue that phrases like "leave nothing alive" are
+      stock hyperbole common in ancient war reports; others take them more literally. Either
+      way, the deeper question is whether God has the right to judge sin. The cross shows that
+      the same holy God took judgment on Himself for those who trust Him.
+    verses: [Genesis 15:16, Leviticus 18:24-25, Deuteronomy 9:4-5, Joshua 2:8-14, Exodus 34:6-7, Ezekiel 18:23, Matthew 1:5]
+    related: [apologetics-3, apologetics-7, gospel-4]
+
+  # ---------------------------------------------------------------- Jesus
+  - id: did-jesus-exist
+    question: "Did Jesus even exist?"
+    category: Jesus
+    short: >-
+      Yes. Virtually every historian who studies the period, Christian or not, agrees Jesus was
+      a real Jewish teacher crucified under Pontius Pilate. The debate is about who He was, not
+      whether He was.
+    answer: >-
+      The idea that Jesus never existed is popular online but has almost no support among
+      specialists, including skeptical ones; Bart Ehrman, an agnostic scholar, even wrote a book
+      defending Jesus' existence. Why so confident? We have Paul's letters, written within about
+      twenty to thirty years of Jesus' death, which mention Jesus' brother James, whom Paul met
+      personally. We have four Gospels written within living memory. And non-Christian writers
+      mention Him: the Roman historian Tacitus says "Christus" was executed under Pontius Pilate,
+      and the Jewish historian Josephus mentions Jesus and refers to James as the brother of
+      Jesus, "who was called Christ." For an ancient figure who wasn't a king or general, that's strong
+      evidence. So the real question isn't "Did Jesus exist?" but "What do we make of what He
+      claimed and what happened after His death?"
+    verses: [Luke 1:1-4, Luke 3:1-2, 1 Corinthians 15:3-8, Galatians 1:18-19]
+    related: [apologetics-6, worldviews-1]
+
+  - id: did-jesus-rise
+    question: "How can you believe a man rose from the dead?"
+    category: Jesus
+    short: >-
+      Because the facts most historians accept (His death by crucifixion, the empty tomb, the
+      appearances, and the sudden change in His followers) are best explained by one thing: He
+      actually rose.
+    answer: >-
+      Gary Habermas popularised the "minimal facts" approach: start only with facts that most
+      scholars, including skeptics, accept. Jesus died by crucifixion. His disciples sincerely
+      believed they saw Him alive afterward, and were willing to suffer for it. Paul, a
+      persecutor, was converted by what he believed was an appearance of Jesus. James, Jesus'
+      skeptical brother, became a church leader. Many scholars also accept that the tomb was
+      found empty. Now try the alternatives: hallucinations don't happen to groups or empty
+      tombs; a stolen body doesn't explain the appearances or Paul; and people don't die for
+      what they know is a lie. The resurrection explains all the facts. If you've ruled out
+      miracles before looking, no evidence will do, but that's a starting assumption, not a
+      conclusion. And if Jesus rose, everything He said about sin, forgiveness and Himself
+      demands our attention.
+    verses: [1 Corinthians 15:3-8, 1 Corinthians 15:14-17, Acts 2:32, Acts 9:1-6, Romans 1:4]
+    related: [apologetics-6, apologetics-8]
+
+  - id: copied-pagan-myths
+    question: "Didn't Christianity just copy older pagan myths like Horus or Mithras?"
+    category: Jesus
+    short: >-
+      When you check the original sources, the parallels mostly disappear. The claims come from
+      popular books and videos, not from ancient texts, and scholars across the spectrum
+      reject them.
+    answer: >-
+      Claims that Horus was born of a virgin on December 25, had twelve disciples and rose
+      after three days circulate widely, but the ancient Egyptian sources don't say these
+      things; they were read into the myths, often using Christian vocabulary. Mithras was
+      born from a rock, and there's no clear evidence of a dying and rising Mithras. Much of
+      what we know about Roman Mithraism comes from after the New Testament was written, so any
+      borrowing may have gone the other way. More importantly, the Gospels look nothing like
+      myth. They are set in a specific time and place, name real officials, and come from a
+      Jewish context that would have been repelled by pagan stories. The first Christians were
+      Jews who proclaimed a crucified man, raised in history, not a seasonal nature god. A good
+      question to ask: "Which ancient source have you seen that says that?"
+    verses: [2 Peter 1:16, Luke 1:1-4, 1 Corinthians 15:3-8, Acts 26:25-26]
+    related: [apologetics-6, worldviews-7, tactics-2]
+
+  - id: did-jesus-claim-to-be-god
+    question: "Did Jesus ever actually claim to be God?"
+    category: Jesus
+    short: >-
+      Yes. He forgave sins against God, accepted worship, claimed God's name "I am," and said He
+      would judge the world. His enemies understood exactly what He meant, which is why they
+      charged Him with blasphemy.
+    answer: >-
+      Jesus rarely said the exact words "I am God," but He said and did things that only make
+      sense if He is. He forgave sins, and onlookers objected that only God can do that. He
+      claimed authority over the Sabbath, which God instituted. He said "before Abraham was, I
+      am," echoing God's name, and His listeners picked up stones. He said "I and the Father are
+      one," and they again accused Him of making Himself God. At His trial He identified Himself
+      with the divine "Son of Man" of Daniel 7 who comes with the clouds, and the high priest
+      called it blasphemy. After the resurrection, Thomas called Him "my Lord and my God," and
+      Jesus accepted it. Muslims and Jehovah's Witnesses read some of these texts differently, so
+      it helps to walk through them together and ask, "Why did His opponents react this way?"
+    verses: [Mark 2:5-7, Mark 14:61-64, John 8:58-59, John 10:30-33, John 20:28, Daniel 7:13-14]
+    related: [worldviews-4, worldviews-5, apologetics-6]
+
+  - id: just-a-good-teacher
+    question: "Can't I just see Jesus as a good moral teacher?"
+    category: Jesus
+    short: >-
+      A merely good teacher wouldn't claim to forgive everyone's sins or to be the only way to
+      God. Given what He said, Jesus is either deceiving, deluded, or exactly who He claimed
+      to be.
+    answer: >-
+      This is the reasoning C. S. Lewis made famous in Mere Christianity, often summarised as
+      "liar, lunatic, or Lord." Jesus didn't only teach kindness; He made Himself the centre of
+      His teaching. He said He would judge the world, that eternal life depends on knowing Him,
+      and that He was one with the Father. If those claims are false and He knew it, He wasn't
+      good. If He sincerely believed them and they were false, He wasn't a sound teacher. So
+      "just a good teacher" is the one option His words don't leave open. Some skeptics reply
+      that the Gospels invented these claims, so it's worth adding that they appear across all
+      the Gospel sources and in Paul's early letters. The gentle question to ask: "Have you ever
+      read what Jesus actually said about Himself?"
+    verses: [John 14:6, John 5:22-23, John 17:3, Mark 2:10, Matthew 11:27]
+    related: [apologetics-6, worldviews-2]
+
+  - id: why-did-jesus-have-to-die
+    question: "Why did Jesus have to die? Couldn't God just forgive us?"
+    category: Jesus
+    short: >-
+      A good judge can't just ignore crimes. At the cross God both punished sin and paid the fine
+      Himself, so He can be just and still forgive us.
+    answer: >-
+      We rightly expect justice. If a judge let a guilty criminal walk free just because he
+      liked him, we'd call the judge corrupt. God is perfectly just, so He can't simply
+      pretend sin doesn't matter. But He is also loving. The cross is where both meet. Jesus,
+      fully God and fully man, lived the perfect life we haven't, then died in the place of
+      sinners, taking the penalty we deserved. It's like a judge who sentences the guilty person
+      and then steps down from the bench to pay the fine in full. Because the debt is really
+      paid, God can forgive without compromising justice. Three days later Jesus rose, showing
+      the payment was accepted. Forgiveness is always costly: someone absorbs the loss. At the
+      cross, God absorbed it Himself. That's why the gospel is good news, not just good advice.
+    verses: [Romans 3:23-26, Romans 6:23, 2 Corinthians 5:21, Isaiah 53:5-6, 1 Peter 3:18, Hebrews 9:22]
+    related: [gospel-5, gospel-1, evangelism-5]
+
+  # ---------------------------------------------------------------- Suffering & Evil
+  - id: why-does-god-allow-evil
+    question: "If God is good and all-powerful, why does He allow evil?"
+    category: Suffering & Evil
+    short: >-
+      God made us free to love, which means free to do evil. He hasn't ended evil yet because
+      that would mean judging all of us, and He's giving people time to turn back.
+    answer: >-
+      Christians hold together three truths: God is good, God is powerful, and evil is real.
+      Several things help. First, love requires real freedom, and a world with free creatures
+      is a world where they can choose evil; most suffering comes from human choices. Second,
+      just because we can't see a reason for a particular evil doesn't mean there isn't one; a
+      God who sees all of history can bring good even out of terrible things, as the story of
+      Joseph shows. Third, if God removed all evil today, He'd have to remove all evildoers,
+      including us. His delay is patience. Fourth, the objection assumes evil is objectively
+      wrong, which is hard to account for without God. Finally, God isn't distant from
+      suffering: in Jesus He entered it, and He promises a day when He will wipe away every tear.
+    verses: [Genesis 50:20, Romans 8:28, 2 Peter 3:9, Revelation 21:4, Romans 8:18]
+    related: [apologetics-7, apologetics-3]
+
+  - id: why-bad-things-good-people
+    question: "Why do bad things happen to good people?"
+    category: Suffering & Evil
+    short: >-
+      Suffering isn't always a punishment for something specific, but in a broken world it
+      touches everyone. And the Bible gently challenges the idea that any of us are truly good.
+    answer: >-
+      Jesus was asked about this directly. When a tower fell and killed eighteen people, He said
+      they weren't worse sinners than anyone else, so suffering isn't a simple score-card for
+      personal sin. When His disciples asked whose sin caused a man's blindness, Jesus said
+      neither his nor his parents'. We live in a world broken by humanity's rebellion, and pain
+      falls on all. But Jesus also used that tragedy to turn the question around: everyone needs
+      to repent, because no one knows when their own life will end. The Bible says no one is good in God's sight;
+      we've all broken His law. So the deeper mystery isn't why bad things happen to good
+      people, but why good things happen to any of us, and why the only truly good person, Jesus,
+      suffered willingly for the bad. Say this with tenderness to someone who is hurting; lead
+      with comfort, not correction.
+    verses: [Luke 13:1-5, John 9:1-3, Romans 3:10-12, John 16:33, Romans 5:8]
+    related: [apologetics-7, evangelism-4, gospel-2]
+
+  - id: natural-disasters
+    question: "What about earthquakes, cancer and disasters that no human caused?"
+    category: Suffering & Evil
+    short: >-
+      The Bible says all creation was affected when humanity turned from God, and it groans
+      waiting to be set free. Natural evil is a sign that the world isn't the way it's supposed
+      to be.
+    answer: >-
+      Not all suffering comes from human choices. The Bible links the brokenness of the natural
+      world to the Fall: when humanity rebelled, creation itself was "subjected to futility" and
+      now groans like a woman in labour, waiting for renewal. Christians differ on the details.
+      Some believe there was no death or disaster at all before the Fall; others think the
+      world's physical processes (like plate tectonics, which also make Earth habitable)
+      existed before, but humanity's sin changed our relationship to them. Either way, Jesus
+      treated disasters as wake-up calls: life is fragile, and we must be ready to meet God.
+      Natural evil also points to something beyond itself; we only call it "evil" because we
+      know life should be better. Christianity promises a real answer: a renewed creation with
+      no more death, mourning or pain.
+    verses: [Genesis 3:17-19, Romans 8:20-22, Luke 13:4-5, Revelation 21:4-5]
+    related: [apologetics-7, apologetics-8]
+
+  - id: where-was-god-in-my-pain
+    question: "Where was God when I was going through the worst time of my life?"
+    category: Suffering & Evil
+    short: >-
+      I'm so sorry. God was not absent. The Bible says He is close to the broken-hearted, and in
+      Jesus He knows suffering from the inside.
+    answer: >-
+      When someone asks this out of personal pain, it's not a debate question; it's a wound.
+      Listen first. Ask what happened. Don't rush to explanations, and don't pretend to know why
+      God allowed their specific suffering. The Bible itself is full of honest lament: Job,
+      Jeremiah and many psalms cry out, "Why?" God never rebuked honest grief. What we can offer
+      is this: God was not far away. He is near to the broken-hearted. Jesus wept at His friend's
+      grave, even knowing He was about to raise him. On the cross He experienced betrayal,
+      injustice, pain and abandonment. So He is not a distant observer of suffering but a
+      fellow sufferer who understands. And the resurrection means suffering won't have the last
+      word. Sometimes the best answer is a quiet presence, a prayer offered, and a follow-up
+      conversation later.
+    verses: [Psalm 34:18, Psalm 13:1-6, John 11:33-35, Hebrews 4:15, 2 Corinthians 1:3-4, Romans 12:15]
+    related: [apologetics-7, foundations-3]
+
+  # ---------------------------------------------------------------- Science
+  - id: science-disproved-god
+    question: "Hasn't science disproved God?"
+    category: Science
+    short: >-
+      Science studies how the natural world works; it can't tell us whether there's something
+      beyond nature. Many of the founders of modern science believed in God precisely because
+      they expected an orderly world made by a rational Creator.
+    answer: >-
+      Science is a wonderful tool for studying the natural world, but the question "Is there
+      anything beyond nature?" isn't a scientific experiment; it's a philosophical one. Science
+      can tell you how a car engine works; it can't tell you whether someone designed it, but
+      that doesn't mean nobody did. Historically, many pioneers of science, including Kepler,
+      Boyle, Newton, Faraday and Maxwell, were Christians who believed the universe was orderly
+      because a rational God made it. Today many working scientists are believers too. In fact,
+      discoveries like the universe having a beginning and being finely tuned for life fit
+      naturally with belief in a Creator. The real conflict isn't between science and faith,
+      but between two worldviews: one says nature is all there is, the other says it isn't.
+      Ask, "Which scientific discovery do you think disproves God?"
+    verses: [Genesis 1:1, Psalm 19:1-2, Romans 1:20, Proverbs 25:2]
+    related: [apologetics-8, apologetics-2, apologetics-1]
+
+  - id: miracles-impossible
+    question: "Don't we know miracles are impossible?"
+    category: Science
+    short: >-
+      Only if we already know there's no God. If God exists and made the natural order, then
+      He can act within it. So the question isn't whether miracles are possible, but whether
+      God exists.
+    answer: >-
+      Science describes the regular patterns of nature; it tells us what normally happens when
+      nothing outside the system interferes. A miracle is not a breaking of logic but God acting
+      in His creation, like a person catching a falling ball doesn't break the law of gravity.
+      David Hume argued that uniform human experience counts against miracles, but that assumes
+      we already know no one has ever experienced one, which is the very point in question.
+      Christians aren't gullible about miracles; the Bible's miracles are rare, clustered around
+      key moments, and presented with witnesses. The ancient world knew dead people don't rise;
+      that's why the resurrection was so shocking. So if there's good reason to think God exists,
+      miracles are possible, and each claim should be examined on its evidence. The
+      resurrection of Jesus is the place to start.
+    verses: [Genesis 1:1, John 20:30-31, Acts 2:22, 1 Corinthians 15:14-17, Luke 1:37]
+    related: [apologetics-8, apologetics-6, tactics-3]
+
+  - id: what-about-evolution
+    question: "Doesn't evolution prove we don't need God?"
+    category: Science
+    short: >-
+      Even if evolution explains how life developed, it can't explain why there is a universe,
+      why its laws are life-permitting, or where life's first information came from. Christians
+      differ on evolution, but all agree God is the Creator.
+    answer: >-
+      First, notice that "evolution" can mean small changes within species (which no one
+      disputes), common ancestry, or an entirely unguided process with no purpose. The last is a
+      philosophical claim, not a scientific finding. Christians hold several views. Young-earth
+      creationists read Genesis as describing six recent days. Old-earth creationists accept an
+      ancient universe but believe God created kinds of life directly. Evolutionary creationists
+      (theistic evolutionists) accept common ancestry as the means God used. Many Christians
+      also find the intelligent design arguments persuasive. What Christians agree on: God
+      created everything, humans uniquely bear His image, and humanity has fallen into sin. Even
+      with evolution, you still need to explain the universe's beginning, its fine-tuning,
+      the origin of life, consciousness and morality. Keep the focus on the Creator; the
+      conversation needn't get stuck on the mechanism.
+    verses: [Genesis 1:1, Genesis 1:27, Colossians 1:16-17, Hebrews 11:3, Psalm 139:13-14]
+    related: [apologetics-8, apologetics-2]
+
+  # ---------------------------------------------------------------- Morality
+  - id: good-without-god
+    question: "Can't I be a good person without believing in God?"
+    category: Morality
+    short: >-
+      Yes, you can do good things without believing in God, because God wrote His law on
+      everyone's heart. The question is whether "good" means anything without Him, and whether
+      any of us is good enough by His standard.
+    answer: >-
+      There are two questions hiding here. First: can atheists be kind, honest and generous?
+      Of course. The Bible says God's moral law is written on every human heart, believer or
+      not. Christians shouldn't claim otherwise. Second: without God, what makes anything
+      objectively good or evil, rather than just preferred by us or useful for survival? If
+      we're only matter in motion, "good" is hard to ground. That's one reason Christians argue
+      that real morality points to a moral Lawgiver. There's also a third question worth
+      raising gently: are we actually good? By whose standard? Most people grade themselves on
+      a curve. Try asking a few questions about lying, stealing or lust, and most people admit
+      they fall short of even their own standards, let alone God's. That's where the gospel
+      becomes good news.
+    verses: [Romans 2:14-15, Romans 3:10-12, Romans 3:23, Micah 6:8, Mark 10:18]
+    related: [apologetics-3, evangelism-3, evangelism-4, gospel-3]
+
+  - id: who-are-you-to-judge
+    question: "Who are you to judge? Isn't morality just relative?"
+    category: Morality
+    short: >-
+      Saying "you shouldn't judge" is itself a moral judgment. And almost no one really believes
+      morality is relative: we all know torturing children for fun is wrong everywhere and always.
+    answer: >-
+      Relativism says right and wrong depend on the person or culture. It sounds tolerant, but
+      it can't be lived. If morality is relative, then no culture was ever wrong, not even one
+      that practised slavery or genocide, and no reformer ever made things better, only
+      different. Notice too that "It's wrong to judge" is a universal moral claim. Christians
+      aren't the final judges of anyone; that's God's role. Jesus' warning "judge not" is about
+      hypocritical condemnation, not about ever saying something is wrong; in the same passage
+      He tells us to remove the log from our own eye first and then help our brother. So we
+      speak humbly, as fellow sinners, pointing not to our own standard but to God's. Asking
+      "Is anything wrong for everyone?" usually opens the door.
+    verses: [Matthew 7:1-5, John 7:24, Romans 2:1-3, Isaiah 5:20, James 4:12]
+    related: [worldviews-2, apologetics-3, tactics-3]
+
+  - id: homosexuality
+    question: "Why are Christians so against gay people?"
+    category: Morality
+    short: >-
+      Christians shouldn't be against anyone. We believe God designed sex for the marriage of a
+      man and a woman, and that every one of us, whatever our temptations, needs the same grace.
+    answer: >-
+      Start with an apology if Christians have treated them with contempt; that's a real and
+      painful history for many. Then separate people from behaviour. Jesus defined marriage as
+      the union of a man and a woman, and the Bible consistently teaches that sex belongs only
+      there. That standard challenges everyone: straight people who sleep around, look at
+      pornography or commit adultery are just as guilty. Paul lists many sins together and
+      then reminds the believers that some of them used to live that way but have been washed
+      and made new. The church has held this view
+      across Catholic, Orthodox and Protestant traditions for two millennia, though some
+      churches today have revised it. Evangelicals who hold the traditional view still differ
+      on language, such as whether to use terms like "gay Christian" for believers who remain
+      celibate. The message for all of us is the same: repent, trust Christ, and receive new
+      life.
+    verses: [Genesis 2:24, Matthew 19:4-6, 1 Corinthians 6:9-11, Romans 3:23, Hebrews 13:4, John 8:10-11]
+    related: [foundations-3, evangelism-4, worldviews-2]
+
+  - id: god-moral-monster
+    question: "Isn't the God of the Bible a jealous, angry moral monster?"
+    category: Morality
+    short: >-
+      To call God a moral monster you need a real moral standard, and that standard is hard to
+      find without God. The Bible's God is jealous the way a faithful spouse is, and angry the way
+      a good judge is at evil.
+    answer: >-
+      This charge usually comes as a list: jealous, angry, violent, judgmental. Take the words
+      one at a time. God's jealousy isn't petty envy; it's the protective love of a husband who
+      won't share his wife with someone who would harm her. His anger is not a temper tantrum;
+      it's settled opposition to evil, and we'd think less of a judge who shrugged at child
+      abuse. Notice, too, that the objection relies on objective moral standards, which fit best
+      with God existing. The Bible describes God as merciful, gracious, slow to anger and full of
+      faithful love, and it shows Him patiently warning before judging. Hard
+      passages deserve careful reading in context, not proof-texting. Ultimately, the cross
+      answers the charge: this is a God who took the punishment for those who hated Him.
+    verses: [Exodus 34:6-7, Exodus 34:14, Ezekiel 33:11, Nahum 1:3, Romans 5:8, 1 John 4:9-10]
+    related: [apologetics-3, apologetics-7, gospel-4]
+
+  - id: abortion-womans-choice
+    question: "Isn't abortion just a woman's choice about her own body?"
+    category: Morality
+    short: >-
+      It all comes down to one question: what is the unborn? If it's a human being, then there
+      are two bodies involved, and no one has the right to end an innocent human life.
+    answer: >-
+      Scott Klusendorf's approach helps: before debating choice, ask, "What is the unborn?" If
+      it's not a human being, no justification is needed. If it is, no justification is enough.
+      Embryology textbooks describe the embryo as a living, distinct, whole human organism
+      from fertilisation. His SLED test shows that the differences between an unborn and a
+      newborn (size, level of development, environment, degree of dependency) don't change
+      whether someone is human or valuable; we don't let people kill toddlers because they're
+      small or dependent. Scripture teaches that humans bear God's image and that God knits us
+      together in the womb. But be gentle: someone you speak with may have had an abortion or
+      pressured someone into one. Make sure they hear clearly that forgiveness is available in
+      Christ, and that the church should support mothers in hard situations.
+    verses: [Genesis 1:27, Exodus 20:13, Psalm 139:13-16, Jeremiah 1:5, Luke 1:41-44, 1 John 1:9]
+    related: [prolife-1, prolife-2, prolife-3]
+
+  # ---------------------------------------------------------------- Salvation & Hell
+  - id: why-jesus-only-way
+    question: "Why is Jesus the only way? Isn't that narrow-minded?"
+    category: Salvation & Hell
+    short: >-
+      Jesus isn't one road among many because He's the only one who dealt with our real problem,
+      sin, by paying for it Himself. It's not narrow to say there's one cure; it's narrow to refuse it.
+    answer: >-
+      The exclusivity comes from Jesus Himself: "No one comes to the Father except through me."
+      Why would that be? Because the problem isn't that people lack a religious path; it's that
+      we've all broken God's law and are guilty before Him. Good deeds can't erase a crime, any
+      more than helping an old lady across the street cancels a speeding fine. Every other
+      system asks us to climb up to God by effort. The gospel says God came down, lived the life
+      we didn't, died for our sins and rose again. If there were another way, the cross would
+      have been unnecessary. And the invitation is wide open: anyone, of any background, can come.
+      Truth is often narrow; a pilot doesn't land on "whatever runway feels right." Ask, "If
+      there were only one way, wouldn't you want to know it?"
+    verses: [John 14:6, Acts 4:12, 1 Timothy 2:5-6, John 3:16-18, Galatians 2:21]
+    related: [gospel-5, worldviews-2, evangelism-5]
+
+  - id: never-heard
+    question: "What about people who have never heard of Jesus?"
+    category: Salvation & Hell
+    short: >-
+      God will judge everyone fairly, based on the light they had. But no one is judged for
+      not hearing about Jesus; we're judged for our sin. That's why the gospel must be taken
+      to everyone.
+    answer: >-
+      Scripture assures us the Judge of all the earth will do right. Everyone has some light:
+      creation shows God's power, and conscience shows His law, so no one is truly innocent.
+      People are condemned for the sins they commit, not for missing information. Beyond that,
+      Christians differ. Many evangelicals believe salvation comes only through explicitly
+      hearing and believing the gospel, which is why missions are so urgent. Others think God
+      might save some who respond to the light they have through Christ's work, even without
+      knowing His name, much as Old Testament believers were saved. Still others note that
+      God can bring the message to anyone who seeks Him, as with Cornelius in Acts 10. Two
+      things are clear: God is not unfair, and the person asking has heard. So the most
+      important question is, "What will you do with Jesus?"
+    verses: [Genesis 18:25, Romans 1:20, Romans 2:14-16, Acts 17:26-27, Acts 10:1-6, Romans 10:13-15]
+    related: [gospel-4, evangelism-6, apologetics-7]
+
+  - id: hell-unfair-finite-sins
+    question: "Isn't eternal hell unfair punishment for a few finite sins?"
+    category: Salvation & Hell
+    short: >-
+      The seriousness of a crime depends on whom it's against, not how long it took. Sin
+      against an infinitely holy God is infinitely serious, and people in hell never stop
+      rejecting Him.
+    answer: >-
+      We already know punishment isn't measured by how long a crime takes; a murder can take
+      seconds and deserve a life sentence. What matters is the seriousness of the offence and
+      the dignity of the one wronged. Slapping a mosquito, a friend and a head of state are very
+      different acts. Sin is rebellion against an infinitely good and holy God. Many also point
+      out that people in hell don't become repentant; the rebellion continues. And hell is, in
+      a sense, God giving people what they insisted on: life without Him. Christians differ on
+      hell's nature. Most hold that it is conscious, unending punishment; some respected
+      evangelicals, such as John Stott (tentatively), have argued the lost are finally destroyed
+      rather than tormented forever. All agree it is real, terrible and just, which is why God's
+      offer of mercy is so urgent.
+    verses: [Matthew 25:46, Romans 2:5-6, Revelation 20:12-15, 2 Thessalonians 1:8-9, Luke 12:47-48]
+    related: [gospel-4, gospel-2]
+
+  - id: loving-god-send-to-hell
+    question: "How could a loving God send people to hell?"
+    category: Salvation & Hell
+    short: >-
+      Because He is also good, and a good judge must punish crime. But He's done everything
+      necessary to keep us out, even paying our fine Himself. No one goes to hell who didn't
+      refuse His rescue.
+    answer: >-
+      Love and justice aren't opposites. A judge who loves the victims of a crime will not let
+      the criminal walk away; if he did, he'd be corrupt. God's love for what is good is exactly
+      why He must judge evil, including ours. The shocking part of the Christian message isn't
+      that God judges; it's that He came to take the judgment Himself. The Bible says He takes
+      no pleasure in the death of the wicked and wants all to come to repentance. So the real
+      question is less "How could He send people to hell?" and more "How could He save anyone at
+      all?" Hell is not God being unloving; it's God giving justice to those who have refused
+      mercy. Asking "If God were to judge you by the Ten Commandments, would you be innocent or
+      guilty?" helps make this personal.
+    verses: [Ezekiel 33:11, 2 Peter 3:9, John 3:16-18, John 3:36, Romans 6:23, Romans 5:8]
+    related: [gospel-4, gospel-5, evangelism-3]
+
+  - id: good-people-heaven
+    question: "Won't good people go to heaven?"
+    category: Salvation & Hell
+    short: >-
+      If only good people go to heaven, we're all in trouble, because none of us is good by
+      God's standard. That's why we need a Saviour, not a scorecard.
+    answer: >-
+      Nearly everyone thinks they're a good person, but that's usually measured against other
+      people. The question is how we measure up to God's standard. Ray Comfort and the Living
+      Waters team made popular a simple way to test it, the Good Person Test: have you ever
+      lied, stolen anything, used God's name carelessly, or looked with lust? Jesus said that
+      lust is adultery of the heart and hatred is murder of the heart. By that standard, all of
+      us are guilty. Good deeds don't cancel crimes; a judge doesn't release a criminal because
+      he gave to charity. That sounds like bad news, and it is, until you hear what God did:
+      Jesus paid the fine for our sin at the cross. Heaven isn't for good people; it's for
+      forgiven people who repent and trust Him.
+    verses: [Romans 3:23, Mark 10:18, Matthew 5:21-22, Matthew 5:27-28, James 2:10, Ephesians 2:8-9]
+    related: [evangelism-3, evangelism-4, gospel-2, gospel-1]
+
+  - id: once-saved-always-saved
+    question: "Once saved, always saved? Can a Christian lose their salvation?"
+    category: Salvation & Hell
+    short: >-
+      Christians genuinely differ on this. All agree that true saving faith shows itself in a
+      changed life and continues to trust Christ, and that assurance rests on Christ, not on
+      our performance.
+    answer: >-
+      This is an in-house debate. Reformed and many Baptist Christians hold to the
+      "perseverance of the saints": those whom God truly saves He will keep, and those who fall
+      away permanently show they were never truly converted. They point to texts like Jesus'
+      promise that no one can snatch His sheep from His hand. Wesleyan and Arminian Christians
+      believe a true believer can, by persistent unbelief, finally turn away, citing sober
+      warnings like Hebrews 6. Some Free Grace teachers stress that anyone who once believed is
+      secure even if they later stop, a view most evangelicals think goes too far. Catholics and
+      Orthodox Christians teach differently again. Common ground: salvation is by grace, real
+      faith perseveres and bears fruit, and the warnings are meant to be taken seriously. Our
+      confidence rests on Christ's finished work.
+    verses: [John 10:27-29, Philippians 1:6, Romans 8:38-39, Hebrews 6:4-6, 1 John 2:19, 2 Peter 1:10]
+    related: [gospel-6, worldviews-6]
+
+  # ---------------------------------------------------------------- Other Religions
+  - id: all-religions-the-same
+    question: "Don't all religions basically teach the same thing?"
+    category: Other Religions
+    short: >-
+      Not at all. They disagree about who God is, what's wrong with us, and how we're saved.
+      Christianity alone says salvation is a free gift paid for by God Himself.
+    answer: >-
+      Many religions share some moral teaching, like kindness or honesty, but on the big
+      questions they contradict each other. Is God personal (Christianity, Islam), impersonal
+      (much of Hinduism), or not relevant at all (many Buddhists)? Is Jesus God the Son
+      (Christianity), a prophet who wasn't crucified (Islam), or one enlightened teacher among
+      many? Is the afterlife resurrection, reincarnation or dissolution? They can't all be
+      true. The most important difference is how we're made right with God. Almost every system
+      is about us doing enough good. Christianity says we can't, so God came down and did it for
+      us through the cross. Treating all religions as the same actually disrespects them; their
+      followers would disagree. Ask, "Which religions have you looked into? What do you think
+      they say about how we get to God?"
+    verses: [John 14:6, Acts 4:12, Ephesians 2:8-9, 1 Timothy 2:5]
+    related: [worldviews-2, worldviews-5, worldviews-7]
+
+  - id: accident-of-birth
+    question: "If you were born in India, you'd be Hindu. Isn't your faith just where you grew up?"
+    category: Other Religions
+    short: >-
+      Where I learned a belief doesn't tell us whether it's true. And that argument cuts both
+      ways: if you'd been born elsewhere, you might not be skeptical either.
+    answer: >-
+      There's a grain of truth here: culture shapes what we're exposed to. But how someone came
+      to believe something doesn't decide whether it's true; judging it that way is called the
+      genetic fallacy. A person raised in a family of doctors might believe germs cause disease,
+      and still be right. The argument also applies to the skeptic: someone raised in a secular
+      Western home is more likely to be secular. So the real question is, "What are the
+      reasons?" Christianity also doesn't fit neatly with the claim. It began as a small Jewish
+      movement, spread across cultures from the start, and today most Christians live in Africa,
+      Asia and Latin America, many of them first-generation converts. God is not limited by
+      geography; He places people where they may seek Him.
+    verses: [Acts 17:26-27, Revelation 7:9, Matthew 28:19, Acts 2:5-11]
+    related: [worldviews-2, worldviews-7, tactics-3]
+
+  - id: same-god-islam
+    question: "Don't Muslims and Christians worship the same God?"
+    category: Other Religions
+    short: >-
+      Both believe in one Creator, but they describe Him very differently. Islam denies that God
+      is Father, Son and Spirit, and denies that Jesus is God's Son who died for our sins, which
+      is the heart of the gospel.
+    answer: >-
+      This is debated, even among Christians. Some say yes, in the sense that both point to the
+      one Creator God of Abraham, but Muslims understand Him wrongly. Others say no, because the
+      God Muslims describe is not the God who has revealed Himself as Father, Son and Holy Spirit.
+      Either way, the differences are huge and shouldn't be minimised. Islam teaches that God
+      has no Son, that Jesus was a great prophet but not divine, and, in most traditional
+      interpretations, that He was not crucified. Christianity stands or falls on the cross and
+      resurrection. Salvation in Islam depends on God's mercy weighed against deeds; in
+      Christianity it is a gift of grace through Christ. When talking with Muslim friends, show
+      respect, ask what they believe, and gently point to who Jesus claimed to be and why He died.
+    verses: [John 5:23, John 8:19, 1 John 2:22-23, 1 John 5:11-12, John 1:18]
+    related: [worldviews-5, foundations-3]
+
+  - id: arrogant-to-say-youre-right
+    question: "Isn't it arrogant to say your religion is right and everyone else is wrong?"
+    category: Other Religions
+    short: >-
+      Arrogance is about attitude, not about believing something is true. And I'm not claiming to
+      be better; I'm a beggar telling other beggars where I found bread.
+    answer: >-
+      Every belief excludes its opposite. Saying "all religions are equally valid" also claims
+      that the Christian, the Muslim and the atheist are all wrong about something. So everyone
+      thinks they're right about something; the question is how we hold our beliefs. Arrogance
+      is looking down on people, and Christians can certainly be guilty of that. But the gospel
+      itself undercuts pride: it says I'm a sinner who couldn't save myself, and that everything
+      I have is a gift. I didn't make up the claim that Jesus is the only way; I'm passing on
+      what He said. It would be unloving to keep quiet if I believed it was true. The Bible
+      tells believers to give reasons with gentleness and respect, so if I've come across as
+      smug, I should apologise.
+    verses: [John 14:6, 1 Peter 3:15-16, Ephesians 2:8-9, 1 Corinthians 4:7, 1 Timothy 1:15]
+    related: [worldviews-2, foundations-3, tactics-5]
+
+  # ---------------------------------------------------------------- Church & Christians
+  - id: christianity-causes-wars
+    question: "Hasn't religion, especially Christianity, caused most of the world's wars?"
+    category: Church & Christians
+    short: >-
+      Most wars have been about land, power and money, not religion. And when Christians have
+      been violent, they've done it against Jesus' teaching, not because of it.
+    answer: >-
+      Scholars who catalogue the history of warfare find that only a small minority of wars were
+      mainly religious; most were driven by territory, wealth, power or ethnic rivalry. The
+      twentieth century, the bloodiest in history, saw tens of millions killed by regimes that
+      were explicitly atheistic, like Stalin's Soviet Union and Mao's China, though it would be
+      unfair to blame every atheist for them. Christians have also done wrong, and we should say
+      so plainly. But the question is whether violence flows from or against a belief's founder.
+      Jesus told His followers to love their enemies, rebuked Peter for using a sword, and went
+      to the cross rather than fight. Christians who kill in His name contradict Him. Meanwhile,
+      Christian faith inspired hospitals, schools, care for orphans and the abolition of
+      slavery. The problem is the human heart, and that's exactly what Jesus came to change.
+    verses: [Matthew 5:43-44, Matthew 26:52, John 18:36, Romans 12:17-21, Jeremiah 17:9]
+    related: [worldviews-1, apologetics-3, tactics-3]
+
+  - id: crusades-and-inquisition
+    question: "What about the Crusades and the Inquisition?"
+    category: Church & Christians
+    short: >-
+      Some things done in Christ's name were terrible and we should say so. But they were a
+      betrayal of Jesus' teaching, and the full history is more complicated than the usual story.
+    answer: >-
+      Be honest first: there were real atrocities, such as the massacre when Jerusalem fell in
+      1099 and the sack of Christian Constantinople in 1204, and abuses in various inquisitions.
+      Christians should never defend these. At the same time, history is more complex than the
+      popular version. The Crusades began partly as a response to centuries of military expansion
+      into formerly Christian lands and an appeal for help from the Byzantine emperor. Historians
+      today also think the death toll of the Spanish Inquisition was far lower than legend
+      suggests, though still unjust. None of that excuses sin. The key point is that these acts
+      contradicted Jesus, who said His kingdom was not advanced by the sword. Judge Christianity
+      by Christ, not by those who disobeyed Him. And notice: our outrage assumes a real moral
+      standard, which Jesus embodied perfectly.
+    verses: [John 18:36, Matthew 26:52, Matthew 7:21-23, Micah 6:8, 1 John 1:8-9]
+    related: [worldviews-6, apologetics-3, foundations-3]
+
+  - id: church-full-of-hypocrites
+    question: "Why should I listen when the church is full of hypocrites?"
+    category: Church & Christians
+    short: >-
+      You're right that Christians often fall short, and I'm one of them. But the church is a
+      hospital for sinners, not a museum for saints, and Jesus is no hypocrite.
+    answer: >-
+      Start by agreeing where you can. Christians often fail to live what they believe, and
+      some high-profile scandals have done real harm. Jesus was harder on religious hypocrisy
+      than anyone; He warned that not everyone who says "Lord, Lord" belongs to Him. But notice
+      what the church actually claims to be: not a club of good people, but a gathering of
+      forgiven sinners who are still being changed. A hypocrite is someone who pretends to be
+      what they're not; a Christian who admits they're a sinner in need of grace is being
+      honest. Also, the failures of followers don't disprove the claims of the leader. If a
+      doctor smokes, it doesn't make smoking healthy. The real question is: what will you do
+      with Jesus? And a gentle reminder: we'll all stand before God for our own lives, not
+      other people's.
+    verses: [Matthew 7:21-23, Matthew 23:27-28, Mark 2:17, Romans 3:23, 1 John 1:8-9, Romans 14:12]
+    related: [evangelism-4, foundations-3, tactics-3]
+
+  - id: christianity-a-crutch
+    question: "Isn't Christianity just a crutch for weak people?"
+    category: Church & Christians
+    short: >-
+      If you've got a broken leg, a crutch isn't weakness; it's wisdom. The real question isn't
+      whether faith comforts people, but whether it's true.
+    answer: >-
+      The idea that religion is wishful thinking goes back to thinkers like Freud: people invent
+      a heavenly Father because they want one. But how a belief makes us feel doesn't settle
+      whether it's true; that's the genetic fallacy. The argument also works in reverse: some
+      people might reject God because they wish there were no Judge to answer to. And
+      Christianity isn't what a person would invent to feel good. It tells us we're guilty
+      sinners, calls us to die to ourselves, and warns of judgment. Many of its early followers
+      gained nothing but suffering. Jesus actually agreed that He came for the weak: He said the
+      sick need a doctor, not the healthy. The Bible's point is that we're all sick with sin;
+      the difference is whether we admit it. So the honest question is, "Is it true?"
+    verses: [Mark 2:17, Matthew 11:28-30, 2 Corinthians 12:9-10, Luke 9:23, 1 Corinthians 15:19]
+    related: [worldviews-1, foundations-4, tactics-3]
